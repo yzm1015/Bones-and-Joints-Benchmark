@@ -1,8 +1,7 @@
-# Bones-and-Joints-Benchmark
-# Dataset Overview
+#### Dataset Overview
 We have developed a specialized dataset focused on musculoskeletal disorders, designed to systematically evaluate the clinical capabilities of visual language models (VLMs). The evaluation covers knowledge recall, clinical note interpretation, radiology image interpretation, diagnosis generation and rationale, treatment planning and rationale. The dataset primarily includes multiple-choice questions and open-ended questions to comprehensively cover key evaluation dimensions.
 
-# VLMs and LLMs used in our study
+#### VLMs and LLMs used in our study
 | Model | Size | HF Link | Reference |
 | :--- | :--- | :--- | :--- |
 | GLM-4V-9B | 9B | https://huggingface.co/THUDM/glm-4v-9b | https://arxiv.org/abs/2406.12793 |
