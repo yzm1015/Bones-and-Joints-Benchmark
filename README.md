@@ -4,8 +4,20 @@ B&amp;J benchmark is a comprehensive framework designed to rigorously evaluate L
 | Model | Size | HF Link | Reference |
 | :--- | :--- | :--- | :--- |
 | GLM-4V-9B | 9B | https://huggingface.co/THUDM/glm-4v-9b | https://arxiv.org/abs/2406.12793 |
-| f | 27B | Gemma-2 | [Link](https://huggingface.co/bartowski/gemma-2-27b-it-GGUF) |
-| Llama-2-70b-chat.Q4_K_M.gguf | 70B | Llama-2 | [Link](https://huggingface.co/TheBloke/Llama-2-70B-Chat-GGUF) |
-| Medalpaca-13b.Q5_K_M.gguf | 13B | LLaMA | [Link](https://huggingface.co/mradermacher/medalpaca-13b-GGUF) |
-| Meditron-7b-chat.Q5_K_M.gguf | 7B | Llama-2 | [Link](https://huggingface.co/TheBloke/meditron-7b-chat-GGUF) |
-| Meta-Llama-3-8B-Instruct-Q5_K_M.gguf | 8B | Llama-3 | [Link](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF) |
+| Qwen2-VL | 7B | https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct | https://arxiv.org/abs/2409.12191 |
+| MiniCPM-V2.6 | 8B | https://huggingface.co/openbmb/MiniCPM-V-2_6 | https://arxiv.org/abs/2408.01800 |
+| Llama-3.2-Vision | 11B | https://huggingface.co/meta-llama/Llama-3.2-11B-Vision | https://arxiv.org/abs/2204.05149 |
+| GPT-4o | - | https://chatgpt.com/ | https://arxiv.org/abs/2410.21276 |
+| Claude3.5-Sonnet | - | https://www.anthropic.com/claude/sonnet | https://assets.anthropic.com/m/1cd9d098ac3e6467/original/Claude-3-Model-Card-October-Addendum.pdf |
+| DeepSeek-VL2 | 4.5B | https://github.com/deepseek-ai/DeepSeek-VL2 | https://arxiv.org/abs/2412.10302 |
+| Med-Flamingo | 9B | https://huggingface.co/med-flamingo/med-flamingo | https://arxiv.org/abs/2307.15189 |
+| LLaVA-Med | 7B | https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b | https://arxiv.org/abs/2306.00890 |
+| MedVInT | - | https://github.com/xiaoman-zhang/PMC-VQA/tree/master/src/MedVInT_TD | https://arxiv.org/abs/2305.10415 |
+| MiniGPT-Med | - | https://github.com/Vision-CAIR/MiniGPT-Med | https://arxiv.org/abs/2407.04106 |
+| DeepSeek-R1-0528 | - | https://github.com/deepseek-ai/DeepSeek-R1 | https://arxiv.org/abs/2501.12948 |
+| Qwen2.5-32B | 32B | https://huggingface.co/Qwen/Qwen2.5-32B | https://arxiv.org/abs/2407.10671 |
+| GLM-4-9B | 9B | https://huggingface.co/THUDM/glm-4-9b | https://arxiv.org/abs/2406.12793 |
+| MedGPT | 13B | https://huggingface.co/Medlinker/Medgpt | https://www.medlinker.com/index/medgpt.html |
+| MedFound | 8B | https://github.com/medfound/medfound | https://www.nature.com/articles/s41591-024-03416-6 |
+| Baichuan-M2 | 32B | https://github.com/baichuan-inc/Baichuan-M2-32B | https://arxiv.org/abs/2509.02208 |
+
