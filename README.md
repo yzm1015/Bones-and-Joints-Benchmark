@@ -15,10 +15,10 @@ We have developed a specialized dataset focused on musculoskeletal disorders, de
 | LLaVA-Med | 7B | https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b | https://arxiv.org/abs/2306.00890 |
 | MedVInT | - | https://github.com/xiaoman-zhang/PMC-VQA/tree/master/src/MedVInT_TD | https://arxiv.org/abs/2305.10415 |
 | MiniGPT-Med | - | https://github.com/Vision-CAIR/MiniGPT-Med | https://arxiv.org/abs/2407.04106 |
-| DeepSeek-R1-0528 | - | https://github.com/deepseek-ai/DeepSeek-R1 | https://arxiv.org/abs/2501.12948 |
+| DeepSeek-R1-0528 | - | https://huggingface.co/deepseek-ai/DeepSeek-R1 | https://arxiv.org/abs/2501.12948 |
 | Qwen2.5-32B | 32B | https://huggingface.co/Qwen/Qwen2.5-32B | https://arxiv.org/abs/2407.10671 |
 | GLM-4-9B | 9B | https://huggingface.co/THUDM/glm-4-9b | https://arxiv.org/abs/2406.12793 |
 | MedGPT | 13B | https://huggingface.co/Medlinker/Medgpt | https://www.medlinker.com/index/medgpt.html |
-| MedFound | 8B | https://github.com/medfound/medfound | https://www.nature.com/articles/s41591-024-03416-6 |
-| Baichuan-M2 | 32B | https://github.com/baichuan-inc/Baichuan-M2-32B | https://arxiv.org/abs/2509.02208 |
+| MedFound | 8B | https://huggingface.co/medicalai/MedFound-Llama3-8B-finetuned | https://www.nature.com/articles/s41591-024-03416-6 |
+| Baichuan-M2 | 32B | https://huggingface.co/baichuan-inc/Baichuan-M2-32B | https://arxiv.org/abs/2509.02208 |
 
