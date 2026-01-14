@@ -1,5 +1,6 @@
 # Bones-and-Joints-Benchmark
-B&amp;J benchmark is a comprehensive framework designed to rigorously evaluate Large Language Models (LLMs) and Vision Language Models (VLMs) across the full spectrum of clinical reasoning, specifically for musculoskeletal disorders.
+# Dataset Overview
+We have developed a specialized dataset focused on musculoskeletal disorders, designed to systematically evaluate the clinical capabilities of visual language models (VLMs). The evaluation covers knowledge recall, clinical note interpretation, radiology image interpretation, diagnosis generation and rationale, treatment planning and rationale. The dataset primarily includes multiple-choice questions and open-ended questions to comprehensively cover key evaluation dimensions.
 
 # VLMs and LLMs used in our study
 | Model | Size | HF Link | Reference |
