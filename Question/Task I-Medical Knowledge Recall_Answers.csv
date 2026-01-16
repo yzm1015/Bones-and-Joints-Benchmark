@@ -1,0 +1,394 @@
+Number,Question,Answer,
+1,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The examination that helps diagnose a complete rupture of the chronic anterior cruciate ligament of the knee is:
+A: Squatting test , B: Knee X-ray, C: Knee varus stress test, D: Apley grinding test, E: Drawer test",E,
+2,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A positive Lachman test indicates that the knee joint has:
+A: Joint effusion, B: Collateral ligament injury, C: Meniscus injury, D: Cruciate ligament injury, E: None of the above",D,
+3,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+When the knee is in a semi-flexed position and an external force is applied to the anterior aspect of the upper tibia, the resulting injury is likely:
+A: Medial meniscus injury, B: Lateral meniscus injury, C: Anterior cruciate ligament injury, D: Posterior cruciate ligament injury, E: Medial collateral ligament injury",D,
+4,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Common signs of cruciate ligament injury of the knee are:
+A: Positive Drawer test, B: Positive McMurray test, C: Positive Lateral stress test, D: Positive Floating patella test, E: Positive Patellar inhibition test",A,
+5,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The lateral stress test is primarily used to examine:
+A: Anterior cruciate ligament injury, B: Posterior cruciate ligament injury, C: Collateral ligament injury, D: Lateral meniscus injury, E: Patellar ligament injury",C,
+6,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following associations between knee joint diseases and tests is inappropriate?
+A: Pain on the lateral side during adduction test: Lateral collateral ligament injury, B: Positive Patellar grinding test: Chondromalacia patellae, C: Positive Anterior drawer test: Posterior cruciate ligament injury, D: Positive Floating patella test: Moderate effusion in the knee, E: Positive McMurray test: Meniscus injury",C,
+7,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following clinical significances of knee joint diseases and related examinations is incorrect?
+A: Knee effusion: Floating patella test (+), B: Posterior cruciate ligament rupture: Anterior drawer test (+), C: Posterior cruciate ligament rupture: Posterior drawer test (+), D: Meniscus injury: McMurray test (+), E: Tibial chondromalacia: Patellar grinding test (+)",B,
+8,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+O'Donoghue's triad refers to:
+A: Injury to medial collateral ligament, medial meniscus, and posterior cruciate ligament, B: Injury to lateral collateral ligament, medial meniscus, and posterior cruciate ligament, C: Injury to medial collateral ligament, medial meniscus, and anterior cruciate ligament, D: Injury to medial collateral ligament, lateral meniscus, and anterior cruciate ligament, E: Injury to lateral collateral ligament, medial meniscus, and anterior cruciate ligament",C,
+9,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+With a history of knee sprain and locking, the most likely injury is:
+A: Lateral collateral ligament injury, B: Tibial plateau fracture, C: Meniscus injury, D: Patellar fracture, E: Anterior cruciate ligament injury",C,
+10,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Among the following characteristics of meniscus injury, which is incorrect?
+A: Common in athletes and manual laborers, B: More common in males than females, C: Always feel joint pain in the chronic stage, with clicking sounds during movement, D: Joint locking occasionally occurs during movement, E: All patients have a history of trauma",E,
+11,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The most accurate and ideal auxiliary examination method when suspecting meniscus injury is:
+A: X-ray examination, B: Arthrography, C: CT scan, D: B-ultrasound, E: Arthroscopy",E,
+12,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is the inappropriate essential factor causing knee meniscus injury?
+A: Rotation of the knee, B: Anteroposterior movement of the knee, C: Adduction and abduction of the knee, D: Compression of the knee, E: Semi-flexion of the knee",B,
+13,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The main pathological change of osteoarthritis is:
+A: Intra-articular purulent infection, B: Specific inflammation of the joint, C: Articular cartilage degeneration and secondary hyperosteogeny, D: Joint osteoporosis, E: Chronic pain in bones and joints",C,
+14,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the description of knee osteoarthritis, which is correct?
+A: Less weight-bearing involved, B: Perform artificial joint surface replacement as early as possible, C: Joint deformity may appear in late stages, D: Soft tissue release can be performed for genu varum, E: The main lesion is degeneration of the joint synovium",C,
+15,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The first-choice drug for mild to moderate osteoarthritis is:
+A: Ibuprofen, B: Diclofenac, C: Aspirin, D: Indomethacin, E: Acetaminophen",E,
+16,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The initial pathological damage of knee osteoarthritis occurs in:
+A: Articular cartilage, B: Joint synovium, C: Subchondral bone, D: Cruciate ligaments, E: Joint capsule",A,
+17,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding ""Osteoarthritis"", which of the following statements is correct?
+A: Prevalence increases with age, more common in women than men, B: Main pathological changes are degenerative degeneration and loss of cartilage, and osteophyte formation, C: Clinical manifestations and X-ray changes are often inconsistent, D: Serum rheumatoid factor is negative, ESR is not increased, CRP is not elevated, and X-ray is helpful for diagnosis, E: All of the above are correct",E,
+18,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The pathological changes of chondromalacia patellae occur earliest in:
+A: Deep layer of cartilage, B: Superficial layer of cartilage, C: Cartilage edge, D: Synovium, E: Meniscus",A,
+19,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Among the following treatments for chondromalacia patellae, which is inadvisable?
+A: Physiotherapy, B: Local blockade injection, C: Consider surgical treatment first after diagnosis, D: Taking anti-inflammatory and analgesic drugs, E: Strengthening quadriceps exercises",C,
+20,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the purpose of surgical treatment for chondromalacia patellae, which of the following is incorrect?
+A: Resect the abnormal patella to remove the lesion, B: Change the alignment of the patellofemoral joint, C: Scrape off small erosive lesions on the patellar articular cartilage, D: Increase the stability of the patella during joint movement, E: If the patellar articular cartilage is completely destroyed, the patella can be removed",A,
+21,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The most likely diagnosis for a friction sensation during knee extension/flexion or a positive semi-squat test is:
+A: Lateral meniscus injury, B: Medial meniscus injury, C: Chondromalacia patellae, D: Intra-articular loose bodies, E: Rheumatoid arthritis",C,
+22,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following treatment principles for chondromalacia patellae is inappropriate?
+A: NSAIDs (Non-steroidal anti-inflammatory drugs), B: Physical therapy, C: Quadriceps exercises, D: Intra-articular injection (block), E: Surgery should be performed as early as possible once discovered",E,
+23,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is not a high-risk factor for patellar dislocation?
+A: Weak quadriceps strength, B: Anterior cruciate ligament rupture, C: Trochlear dysplasia, D: Patella alta (High-riding patella), E: Rupture of the medial patellofemoral ligament",B,
+24,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following indicators suggests patellar dislocation?
+A: Lateral patellofemoral angle opening laterally, B: Intercondylar notch angle: 138бу, C: Congruence angle: -6бу, D: Patellofemoral index > 1:1.6, E: Congruence angle: 0бу",D,
+25,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the treatment of patellar dislocation, which statement is incorrect?
+A: Closed reduction is most commonly used for acute dislocation, B: Start knee function training as soon as possible, C: Surgical treatment should be considered first for simple acute dislocation, especially for first-time dislocation patients, D: Surgical treatment can be considered for recurrent patellar dislocation and patients with severe osteochondral or ligament injury, E: Postoperative fixation of the lower limb with a knee brace for 3-6 weeks",B,
+26,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The ligament that must be resected in total knee arthroplasty (TKA) is:
+A: Anterior cruciate ligament (ACL), B: Posterior cruciate ligament (PCL), C: Medial collateral ligament (MCL), D: Lateral collateral ligament (LCL), E: Patellar ligament",A,
+27,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT an indication for total knee arthroplasty?
+A: Degenerative osteoarthritis of the knee, B: Late-stage knee lesions of rheumatoid arthritis, C: Traumatic osteoarthritis, D: Ankylosis after knee tuberculosis, E: Knee synovitis",E,
+28,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Among the following auxiliary examinations, which one can visualize the discoid meniscus?
+A: CT arthrography, B: X-ray, C: CT scan, D: MRI, E: Bone scan",D,
+29,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the Hall classification of the discoid meniscus, which correspondence is incorrect?
+A: Type I: Slab type, uniform thickening of the meniscus with parallel upper and lower edges, B: Type II: Biconcave type, a slab type with thinning in the center, C: Type III: Wedge type, similar in shape to a normal meniscus but larger, D: Type IV: Frustrated/Rudimentary type, between normal and slab type, E: Type VI: Any of the above types accompanied by a tear",D,
+30,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The typical deformity of the affected limb in posterior dislocation of the hip is:
+A: Limb shortening, hip flexion, adduction, and internal rotation deformity, B: Limb shortening, hip flexion, abduction, and external rotation deformity, C: Limb lengthening, hip hyperextension deformity, D: Limb lengthening, hip abduction, and external rotation deformity, E: Hip hyperflexion deformity",A,
+31,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which is the most common type of hip dislocation?
+A: Anterior dislocation, B: Posterior dislocation, C: Central dislocation, D: Dislocation combined with acetabular fracture, E: Dislocation combined with femoral head fracture",B,
+32,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which measure should NOT be chosen for the treatment of fresh posterior hip dislocation?
+A: Manual reduction using the Allis method, B: Continuous skin traction fixation in extension and abduction for 3-4 weeks after reduction, C: Early quadriceps contraction exercises and ankle functional training, D: No weight bearing on the affected limb for 3 months after injury to avoid avascular necrosis of the femoral head, E: Immediate open reduction surgery",E,
+33,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following clinical manifestations of posterior hip dislocation is incorrect?
+A: Limb shortening, B: Hip flexion, C: Hip adduction, D: Hip internal rotation, E: Elevation of the greater trochanter",A,
+34,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Posterior hip dislocation is prone to cause:
+A: Brachial artery injury, B: Popliteal artery injury, C: Avascular necrosis of bone, D: Radial nerve injury, E: Sciatic nerve injury",E,
+35,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Femoroacetabular impingement (FAI) caused by excessive coverage of the femoral head by the acetabulum belongs to which type?
+A: Cam type, B: Pincer type, C: Mixed type, D: Crowe Type I, E: None of the above",B,
+36,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Possible clinical manifestations of femoroacetabular impingement (FAI) include:
+A: Deep intermittent hip or groin pain, B: Buttock pain or sacroiliac region pain, C: ""C"" sign, D: Limited hip mobility, E: All of the above symptoms may occur",E,
+37,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The examination method for the FADIR test is:
+A: Hip flexion 90бу, thigh abduction, rotate femur from outside to inside, B: Hip flexion 90бу, thigh adduction, rotate femur from inside to outside, C: Hip flexion 90бу, thigh adduction, rotate femur from outside to inside (Internal Rotation), D: Hip extension 90бу, thigh abduction, rotate femur from outside to inside, E: Hip flexion 45бу, thigh adduction, rotate femur from outside to inside",C,
+38,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT a common portal for arthroscopic surgery of femoroacetabular impingement syndrome?
+A: Anterolateral portal, B: Anterior portal, C: Posterolateral portal, D: Posterior portal, E: Distal anterolateral accessory portal",D,
+39,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following tests cannot help diagnose femoroacetabular impingement syndrome?
+A: FADIR test, B: FABER test, C: Posterior impingement test, D: Grinding test, E: Internal rotation gait test",D,
+40,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The most common causes of avascular necrosis of the femoral head in adults are:
+A: Long-term high-dose use or abuse of corticosteroids, B: Alcoholism, C: Tumor radiation therapy, D: Femoral neck fracture, E: Traumatic posterior dislocation of the hip",D,
+41,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which type of femoral neck fracture is most prone to avascular necrosis of the femoral head?
+A: Subcapital fracture, B: Transcervical fracture, C: Base of neck fracture, D: Stable femoral neck fracture, E: Incompletely displaced femoral neck fracture",A,
+42,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the blood supply to the femoral head, which statement is correct?
+A: The artery of the ligamentum teres supplies about 60% of the blood to the femoral head, B: Blockage of the ascending branch of the nutrient vessels of the femoral shaft is the main cause of necrosis, C: The medial circumflex femoral artery supplies 4/5 to 2/3 of the femoral head area, D: The superficial circumflex iliac artery and lateral circumflex femoral artery form an arterial ring at the base of the femoral neck, supplying most of the femoral head, E: None of the above",C,
+43,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Injury to which artery is most likely to cause avascular necrosis of the femoral head?
+A: Artery of the ligamentum teres, B: Ascending branch of the nutrient artery of the femoral shaft, C: Medial circumflex femoral artery, D: Lateral circumflex femoral artery, E: Injury to any of the above arteries can cause necrosis",C,
+44,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Subcapital fracture of the femoral neck is most likely to be complicated by:
+A: Avascular necrosis, B: Traumatic arthritis, C: Traumatic ossification, D: Sciatic nerve injury, E: Joint stiffness",A,
+45,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+For patients over 65 with hip osteoarthritis presenting with significant pain and movement disorders, the preferred treatment is:
+A: Hip arthrodesis (fusion), B: Osteotomy, C: Total joint replacement (Arthroplasty), D: Joint debridement, E: Core decompression",C,
+46,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The preferred imaging examination for hip osteoarthritis is:
+A: Plain X-ray film, B: CT scan, C: MRI scan, D: Arthrography, E: Bone scan",A,
+47,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Non-surgical treatment methods for hip osteoarthritis include:
+A: Oral medication, B: Intra-articular injection, C: Strengthening hip joint and muscle strength, D: Physical therapy, E: All of the above",E,
+48,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Formation of small cysts in the femoral head or acetabulum, progressive narrowing of the joint space, and loss of femoral head sphericity describe which grade of the T?nnis classification for hip osteoarthritis?
+A: 0, B: 1, C: 2, D: 3, E: 4",C,
+49,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following situations is suitable for total hip arthroplasty?
+A: Young osteoarthritis patients who wish to remain active, B: Patients who respond well to conservative treatment, C: Patients with labral injury, D: Elderly patients with end-stage degenerative changes (osteoarthritis) of the hip, E: Patients with hip joint infection",D,
+50,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The standard for diagnosing developmental dysplasia of the hip (DDH) is:
+A: Anteroposterior (AP) pelvic X-ray, B: Ultrasound, C: CT, D: MRI, E: Hip arthroscopy",A,
+51,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Crowe Grade 3 for hip dysplasia on X-ray refers to:
+A: Femoral head subluxation <25%, B: Femoral head subluxation 25%~50%, C: Femoral head subluxation 50%~75%, D: Femoral head subluxation 75%~100%, E: Femoral head dislocation completely",D,
+52,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following statements regarding developmental dysplasia of the hip is incorrect?
+A: Pain in the groin area, B: Pain is related to activity, C: Insidious onset, gradually worsening, D: Most patients have a family history of  hip dysplasia or osteoarthritis, E: Hip dysplasia is more common in males",E,
+53,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The recognized standard method for treating acetabular dysplasia is:
+A: Conservative treatment, B: Periacetabular osteotomy (PAO), C: Core decompression of the femoral head, D: Total hip arthroplasty, E: Hip arthroscopy",B,
+54,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+What is the range of the LCEA (Lateral Center-Edge Angle) for borderline acetabular dysplasia?
+A: Less than 15бу, B: 15бу~20бу, C: Less than 20бу, D: 20бу~25бу, E: More than 25бу",D,
+55,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding periarthritis of the shoulder (frozen shoulder), the correct statement is:
+A: Common in adolescents, B: Acute onset, course lasts about a few weeks, C: Pain decreases at night, D: Typical painful arc is visible, E: Self-limiting, mostly heals spontaneously within 1 year",E,
+56,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The clinical characteristics of frozen shoulder are:
+A: Pain during movement, functional limitation, B: Pain at rest, functional limitation, C: Pain during movement, no functional limitation, D: No pain at rest, functional limitation, E: No pain during movement, functional limitation",A,
+57,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The incorrect treatment method for frozen shoulder is:
+A: Physiotherapy, B: Injection block, C: Massage, D: Taking NSAIDs, E: Restricting shoulder joint movement",E,
+58,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding periarthritis of the shoulder, which of the following is incorrect?
+A: Occurs frequently in middle-aged and elderly people around 50 years old, B: Can heal spontaneously, C: Mainly characterized by shoulder pain and limited movement, D: Often accompanied by numbness in fingers, E: Local block with Prednisolone acetate is effective",D,
+59,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding frozen shoulder, which of the following is incorrect?
+A: Mostly occurs in middle-aged and elderly people over 40, B: It is a chronic traumatic inflammation of shoulder muscles, tendons, bursae, and joint capsule, C: Pain during movement, radiating to the upper arm, D: Affects combing hair, washing face, and fastening belt, E: The disease can heal spontaneously without leaving functional impairment",E,
+60,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+
+What are the symptoms of rotator cuff injury?
+
+A: Shoulder pain, aggravated during activity,
+B: Weakness of shoulder strength,
+C: No obvious limitation of passive movement in the early stage,
+D: Limitation of passive movement in the late stage,
+E: All of the above symptoms may occur",E,
+61,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following muscles is NOT part of the rotator cuff?
+A: Supraspinatus, B: Infraspinatus, C: Subscapularis, D: Teres Major, E: Teres Minor",D,
+62,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which classification of full-thickness rotator cuff tears is incorrect?
+A: Small tear: <1cm, B: Minor tear: 1~2cm, C: Moderate tear: 1~3cm, D: Large tear: 3~5cm, E: Massive tear: б▌5cm",B,
+63,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the treatment of partial rotator cuff tears, which statement is correct?
+A: Non-surgical treatment can be adopted in the early stage, B: Surgical treatment can be considered if conservative treatment fails, C: Surgery involves debridement or repair of the partial tear, depending on the extent of the tear and the patient's age and activity level, D: If the tear does not exceed 50%, simple acromioplasty and debridement are sufficient, E: All of the above are correct",E,
+64,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which statement is incorrect regarding how to improve postoperative outcomes for large and massive rotator cuff tears?
+A: Adequate subacromial decompression, B: Release of anatomical tendons and re-selection of tendon fixation points if necessary, C: Maintaining the integrity of the deltoid origin, D: Cleaning up (debriding/removing) the torn tendon as much as possible, E: Careful guidance and staged rehabilitation training",D,
+65,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Causes of subacromial impingement do not include:
+A: Abnormal anatomical structure of the shoulder joint, B: Rotator cuff injury, C: Shoulder instability, D: Long-term inactivity of the shoulder, E: Scapular malposition",D,
+66,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which test can be used to evaluate subscapularis tendinitis?
+A: Speed's test, B: Lift-off test, C: Jobe's test, D: Yergason's test, E: Impingement test",B,
+67,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The patient abducts the upper limb to 90бу, flexes forward 30бу (in the scapular plane), and internally rotates so the thumb points down to the ground. What examination method is this?
+A: Speed's test, B: Lift-off test, C: Jobe's test, D: Yergason's test, E: Impingement test",C,
+68,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A positive Neer sign indicates:
+A: Shoulder forward flexion causes pain induced by impingement between the greater tuberosity and the anterior edge of the acromion, B: Internal rotation after flexing the arm to 90бу causes pain, C: Pain occurs during resisted flexion of the upper limb with the elbow extended, D: Painful arc between 60бу~120бу of abduction, E: Pain occurs when the upper limb is abducted 90бу, flexed forward 30бу, and internally rotated with the thumb down",A,
+69,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT a good prognostic factor for shoulder impingement syndrome?
+A: Young age, B: Lower body mass index (BMI), C: Better functional status, D: Long duration of symptoms, E: Reversible changes on MRI",D,
+70,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+What is the preferred treatment method for anterior shoulder dislocation? 
+A: Suspension traction, B: Open reduction and internal fixation, C: Skeletal traction, D: Manual reduction and external fixation, E: Skin traction",D,
+71,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The most common type of shoulder dislocation is: 
+A: Anterior dislocation, B: Posterior dislocation, C: Inferior dislocation, D: Supraarticular dislocation, E: Central dislocation",A,
+72,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The joint with the highest rate of dislocation is:
+A: Shoulder joint, B: Elbow joint, C: Hip joint, D: Knee joint, E: Sacroiliac joint",A,
+73,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The common treatment method for fresh anterior shoulder dislocation is:
+A: Closed reduction under local anesthesia, no fixation needed, start shoulder exercises immediately, B: Closed reduction under local anesthesia, suspension with a triangular sling for 3 weeks, move the affected hand and wrist during fixation, C: Closed reduction under brachial plexus block, external plaster fixation for 3 weeks, move hand and wrist during fixation, D: Open reduction under general anesthesia, repair joint capsule, start shoulder exercises immediately after surgery, E: Open reduction under brachial plexus block, repair joint capsule, external fixation with triangular sling for 3 weeks, move hand and wrist",B,
+74,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The common reduction method for anterior shoulder dislocation is:
+A: Hippocratic method, B: Skeletal traction reduction, C: Open reduction, D: Allis method, E: No traction needed, rotation method only",A,
+75,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT a diagnostic basis for Achilles tendon rupture?
+A: Standing on the affected foot alone, heel cannot leave the ground, B: Affected foot cannot actively plantarflex, C: A depression is palpable at the Achilles tendon, D: Dorsiflexion range of the affected foot exceeds that of the healthy side, E: Sudden pain in the heel during jumping or running",B,
+76,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is a clinical manifestation of acute Achilles tendon rupture?
+A: Feeling of being hit by a stick at the back of the ankle, B: Difficulty walking, C: Swelling and bruising, D: Hearing or feeling a ""pop"" sound at the time of rupture, E: All of the above",E,
+77,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The examination that helps diagnose Achilles tendon rupture is:
+A: Anterior drawer test, B: Varus/Valgus stress test, C: Talar tilt test, D: Thompson test, E: Silfverskiold test",D,
+78,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the principles of conservative treatment for acute Achilles tendon rupture, which statement is incorrect?
+A: Immediate treatment plan for injuries: Fix the ankle in extreme plantarflexion with a cast, restrict dorsiflexion, avoid weight bearing, B: Assessment after 2 weeks: Change to a removable cast or boot, fix ankle in 20бу plantarflexion, C: Assessment after 4 weeks: Assess continuity recovery; if tendon ends are not approximated, surgery is recommended, D: Assessment after 8 weeks: Assess continuity, start physical therapy, take off boot, non-weight bearing muscle exercises, E: Assessment after 10 weeks: Stop wearing the boot, continue physical therapy, walk with weight bearing in shoes with heels",D,
+79,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following conservative treatment methods is Not recommended for patients with Achilles tendon rupture?
+A: Low-level laser therapy, B: Shockwave therapy, C: Corticosteroid injection therapy, D: Platelet-rich plasma (PRP) therapy, E: Nitroglycerin patch",C,
+80,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the treatment methods for ankle fractures, which option is incorrect?
+A: Rigid internal fixation, B: The ankle mortise should not be too large or too small, C: Anatomical alignment of the fracture, D: Repeated reduction attempts to achieve closed reduction and avoid surgery, E: Early functional exercise",D,
+81,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding ankle fractures, which statement is incorrect?
+A: Non-displaced fractures can be fixed with a short leg cast, B: Inversion fractures involving more than 1/2 of the articular surface should be treated surgically, C: Surgical fixation must be rigid to facilitate early functional exercise, D: Even if fracture fixation is secure, syndesmosis separation still requires trans-syndesmotic screw fixation, E: Open fractures should be treated with internal fixation as much as possible after thorough debridement",D,
+82,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the Myerson modification of the Lisfranc joint classification, which type is correct?
+A: Type A: Includes displacement of all 5 metatarsals, with or without fracture of the 2nd metatarsal base, B: Type B: Only one joint remains intact, C: Type B1: Lateral displacement, sometimes involving intercuneiform or naviculocuneiform joints, D: Type B2: Medial displacement, may involve the first metatarsocuneiform joint, E: Type C: Divergent injury, C1 total divergence, C2 partial divergence",A,
+83,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT a complication of ankle fracture? :
+A: Pseudarthrosis, B: Malunion, C: Traumatic arthritis, D: Sudeck's atrophy, E: Hematoma formation",E,
+84,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the acute phase management of ankle fractures, which statement is incorrect?
+A: Local cold compress to reduce swelling, B: Elevation of the affected limb, C: Move the ankle joint to prevent stiffness, D: Oral painkillers for severe pain, E: Local compression bandaging",C,
+85,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The weakest and most easily injured lateral ligament of the ankle is:
+A: Anterior talofibular ligament (ATFL), B: Calcaneofibular ligament (CFL), C: Posterior talofibular ligament (PTFL), D: Bifurcate ligament, E: Talocalcaneal ligament",A,
+86,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The test used to check for rupture of the anterior talofibular ligament is:
+A: Varus stress test, B: Valgus stress test, C: Anterior drawer test, D: Posterior drawer test, E: Tilt test",C,
+87,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT a risk factor for lateral ankle ligament injury?
+A: History of previous sprains, B: Excessive height and weight, C: Flatfoot, D: Congenital joint laxity, E: Foot size being too small",E,
+88,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The patient is seated. The examiner holds the patient's lower leg with one hand and the heel with the other, applying an inversion force to tilt the talus. What test is this?
+A: Varus stress test, B: Valgus stress test, C: Anterior drawer test, D: Posterior drawer test, E: Talar tilt test",E,
+89,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding ankle ligament injuries, which option is incorrect?
+A: Patients with acute injury will present with swelling, hematoma, and difficulty bearing weight, B: Patients with chronic injury usually have a history of recurrent ankle instability, C: Anterolateral drawer test can be used to diagnose deltoid ligament injury, D: External rotation stress radiograph of ankle points contributes to the instability of distal tibiofibular syndesmosis, E: Most minor ligament injuries can achieve good results through functional bracing and early rehabilitation",C,
+90,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT a treatment measure for lateral epicondylitis?
+A: External fixation of the wrist and elbow with a plaster splint, B: Release by injection of prednisolone acetate at the tender point, C: Strengthening resisted exercises for wrist extensors, D: Release of the common extensor origin, E: Neurovascular bundle resection and ligation at the common extensor origin",C,
+91,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The fundamental measure to prevent the recurrence of tennis elbow is:
+A: Local block at the tender point of lateral epicondyle, B: Restricting fist clenching and wrist extension movements, C: Stripping and release of the common extensor tendon origin, D: Immobilization of the affected limb, E: Oral NSAIDs",B,
+92,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The method to control symptoms of tennis elbow relatively quickly is:
+A: Local block at the tender point of lateral epicondyle, B: Restricting fist clenching and wrist extension movements, C: Stripping and release of the common extensor tendon origin, D: Immobilization of the affected limb, E: Oral NSAIDs",A,
+93,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The method for treating refractory tennis elbow is:
+A: Local block at the tender point of lateral epicondyle, B: Restricting fist clenching and wrist extension movements, C: Stripping and release of the common extensor tendon origin, D: Immobilization of the affected limb, E: Oral NSAIDs",C,
+94,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which sign is consistent with lateral epicondylitis?
+A: Positive Mills' test, B: Limited elbow movement, C: Limited shoulder abduction, D: Shoulder pain with no limitation of movement, E: Positive Finkelstein's test",A,
+95,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+When treating supracondylar humerus fractures, the deformity that should be most prevented is:
+A: Cubitus valgus, B: Cubitus varus, C: Anterior angulation, D: Rotational deformity, E: Posterior angulation",B,
+96,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding sequelae of elbow joint injury, which option is incorrect?
+A: The incidence of cubitus varus is 9%-57%; surgical correction is indicated when varus exceeds 20бу, B: The incidence of myositis ossificans in the elbow is higher in children than in adults, C: Elbow injury can lead to ulnar neuritis, D: Surgical treatment should be considered for cubitus valgus exceeding 35бу, E: Traumatic myositis ossificans and progressive myositis ossificans are not the same disease; their sites of onset and manifestations differ",B,
+97,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The most common cause of elbow varus is: 
+A: Congenital Cubitus varus, B: Malreduction of medial condyle fracture, C: Supracondylar fracture of humerus, D: Chronic elbow dislocation, E: Total separation of distal humeral epiphysis",C,
+98,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the treatment of cubitus varus, which statement is incorrect?
+A: Elbow functional training, B: Rehabilitation massage, C: Plaster fixation for correction, D: Osteotomy, E: Bone grafting",E,
+99,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the carrying angle, which statement is incorrect?
+A: Carrying angle: The supplementary angle of the angle between the humeral axis and the ulna at the elbow plane, B: Normal range for males: 5бу-10бу, C: Normal range for females: 10бу-15бу, D: Decrease in carrying angle is cubitus varus, E: Decrease in carrying angle is cubitus valgus",E,
+100,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The specific sign of elbow dislocation is:
+A: Swelling and pain in the affected elbow, inability to move, B: Supporting the affected forearm with the healthy hand, C: Normal relationship of the elbow triangle (Huter's triangle), D: Abnormal relationship of the elbow triangle, E: Elbow joint in semi-extended position",D,
+101,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the description of elbow dislocation, which is incorrect?
+A: The elbow triangle relationship is changed after dislocation, B: Posterior elbow dislocation is mostly caused by indirect violence, C: Can be accompanied by lateral dislocation, D: Divergent dislocation of the elbow is rare, E: Divergent dislocation does not involve the annular ligament",E,
+102,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+An abnormal relationship of the posterior elbow triangle is a characteristic sign of which condition?
+A: Radial head subluxation, B: Elbow dislocation, C: Cubital tunnel syndrome, D: Lateral epicondylitis, E: Cubitus varus",B,
+103,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which complication of posterior elbow dislocation is incorrect?
+A: Median nerve injury, B: Joint ankylosis, C: Ulnar nerve injury, D: Myositis ossificans, E: Volkmann's ischemic contracture",B,
+104,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The key clinical differential point between elbow dislocation and fracture is:
+A: Abnormal movement, B: Elbow deformity, C: History of trauma, falling on outstretched hand, D: Local swelling, functional impairment, E: Change in the relationship of the elbow triangle",E,
+105,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The management after reduction of radial head subluxation in children is:
+A: Closed reduction, no fixation required, B: Closed reduction, small splint fixation, C: Closed reduction, external plaster fixation, D: Closed reduction, abduction brace fixation, E: Open reduction",A,
+106,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Radial head subluxation is mostly seen in:
+A: Children under 5 years old, B: Children aged 12-14, C: Adult males aged 20-40, D: Adult females aged 20-40, E: Elderly people",A,
+107,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT a pathogenic factor for radial head subluxation?
+A: Underdeveloped radial head, B: Weak annular ligament, C: Radial head slides distally after traction on the forearm of the affected limb, D: Annular ligament entrapment within the humeroradial joint, E: Forearm rotational external force",E,
+108,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The common age of occurrence and common treatment method for radial head subluxation are:
+A: Children 5-10 years old, manual reduction, triangular sling suspension, B: Children 6-8 years old, manual reduction, C: 10-year-old children, open reduction and internal fixation, D: Toddlers under 5 years old, manual reduction, no fixation required, E: Adults, open reduction and internal fixation",D,
+109,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The reduction method for radial head subluxation is:
+A: Hippocratic method, B: Skeletal traction reduction, C: Open reduction, D: Allis method, E: No traction needed, only rotation method",E,
+110,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the characteristics of cubital tunnel syndrome, which option is incorrect?
+A: Cubital tunnel syndrome is chronic injury to the ulnar nerve, B: The most common cause is cubitus valgus, C: Numbness on the ulnar side of the back of the hand, hypothenar eminence, little finger, and ulnar side of the ring finger is often the first symptom, D: The treatment method is surgery, E: Atrophied small hand muscles can recover quickly after surgery, while hand sensation recovers slowly",E,
+111,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT a clinical manifestation of cubital tunnel syndrome?
+A: Pain in the elbow region, B: Numbness in the ring and little fingers, C: Varying degrees of atrophy of intrinsic hand muscles, D: Claw hand, E: Sensory impairment of the skin on the radial half of the palm",E,
+112,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the description of the cubital tunnel, which statement is incorrect?
+A: The cubital tunnel is located posterior to the joint and is a fibro-osseous tunnel, B: The anterior wall is the ulnar collateral ligament, C: The posterior wall is Osborne's ligament, D: The medial wall is the medial epicondyle of the humerus and the humeral head of the flexor carpi ulnaris, E: The lateral wall is formed by the olecranon and the ulnar head of the flexor carpi ulnaris",A,
+113,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding cubital tunnel syndrome, which of the following may cause the disease?
+A: Old fractures, B: Rheumatoid or rheumatic arthritis of the elbow, C: Recurrent dislocation of the ulnar nerve, D: Long-term work with elbow flexion, E: All of the above can cause it",E,
+114,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding cubital tunnel syndrome, which sign is incorrect?
+A: Atrophy of intrinsic hand muscles and hypothenar muscles, B: Ape hand, C: Positive Tinel sign, D: Positive Froment sign, E: Weakness in holding paper",B,
+115,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Carpal tunnel syndrome is caused by compression of which structure within the carpal tunnel?
+A: Ulnar nerve, B: Ulnar artery, C: Radial nerve, D: Radial artery, E: Median nerve",E,
+116,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which is NOT a symptom of carpal tunnel syndrome?
+A: Thenar muscle atrophy, B: Reduced hand strength, C: Opposition deficit, D: Claw hand, E: Weakness of the thumb",D,
+117,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT a clinical manifestation of carpal tunnel syndrome?
+A: Sensory impairment of the skin on the radial half of the palm, B: Hand pain at night or in the early morning, relieved after activity, C: Electric shock sensation upon tapping the volar aspect of the wrist, D: Thenar muscle atrophy, E: Positive Phalen test",A,
+118,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following belongs to the clinical manifestations of carpal tunnel syndrome?
+A: Numbness in the radial 3.5 fingers (thumb, index, middle, radial half of ring), B: Clumsiness of the affected hand, awkwardness when performing fine motor tasks, C: Weak muscles, D: Severe cyanosis of the thumb and index finger, E: All of the above",E,
+119,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding carpal tunnel syndrome, which of the following signs is positive:
+A: Finkelstein sign, B: Tinel sign, C: Mills sign, D: Lasegue sign, E: Thomas sign",B,
+120,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding stenosing tenosynovitis, which is incorrect?
+A: The lesion is not limited to the flexor tendon sheath, B: Local block for tenosynovitis is effective, C: The lesion site is mostly at the metacarpophalangeal joint of the thumb, D: Morning stiffness and pain, improving after activity, E: Local tenderness",D,
+121,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following does NOT belong to the signs of stenosing tenosynovitis?
+A: Snapping finger, B: Snapping thumb, C: Trigger finger, D: Mills sign (Tennis elbow), E: Positive Finkelstein test",D,
+122,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding stenosing tenosynovitis of the radial styloid, which sign is positive?
+A: Finkelstein sign, B: Mills sign, C: Lasegue sign, D: Thomas sign, E: Dugas sign",A,
+123,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+The most common site for stenosing tenosynovitis is:
+A: Hand and wrist, B: Elbow, C: Shoulder, D: Ankle, E: Toes",A,
+124,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+For stenosing tenosynovitis, the method with better therapeutic efficacy is:
+A: Physiotherapy, B: Restriction of activity and plaster immobilization, C: Oral non-steroidal anti-inflammatory drugs (NSAIDs), D: Topical medication application, E: Local injection of prednisone acetate",E,
+125,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+In which of the following situations is the TFCC (Triangular Fibrocartilage Complex) NOT easily injured?
+A: Athletes in tennis, golf, badminton, etc., rapidly twisting their wrists, B: A driver in a car accident suffering violent rotational traction to the wrist while holding the steering wheel, C: Falling and landing on the elbow, D: Bracing with the hand during a sudden fall, E: Sprain caused by carelessly lifting heavy objects or improper exertion of the wris",C,
+126,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Regarding the management of TFCC injury in the acute phase, which of the following treatments is incorrect?
+A: Elevation of the affected limb, B: Icing the affected area, C: Compression bandaging, D: Immediate surgical treatment, E: Rest",D,
+127,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following is NOT a clinical manifestation of TFCC injury?
+A: Ulnar-sided wrist pain, B: Limitation of wrist movement, C: Difficulty in wrist rotation, D: Decreased wrist strength, E: Protruding lump on the wrist",E,
+128,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following structures does NOT participate in the formation of the TFCC?
+A: Radial collateral ligament, B: Radioulnar ligament, C: Ulnolunate ligament, D: Ulnotriquetral ligament, E: Triangular fibrocartilage disc",A,
+129,"Please answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+Which of the following examinations cannot be used to diagnose TFCC injury?
+A: Sharpey's Test, B: Piano Key Test, C: UTD Glide Test, D: TFCC Load Test, E: Thompson Test",E,

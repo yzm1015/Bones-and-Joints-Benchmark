@@ -1,0 +1,304 @@
+Number,Question,Answer
+1,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 25-year-old male football player suddenly felt severe knee pain during a match, followed by significant swelling. Physical examination revealed a positive Anterior Drawer Test. The most likely diagnosis is:
+A: Collateral ligament injury, B: Anterior cruciate ligament (ACL) injury, C: Posterior cruciate ligament (PCL) rupture, D: Patellar dislocation, E: Meniscus injury",B
+2,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 30-year-old male football player twisted his knee during a match, followed by a sensation of knee instability. Physical examination revealed a positive Lachman test. Which of the following is NOT a clinical manifestation of cruciate ligament injury:
+A: Sensation of knee instability, B: Knee swelling, C: Knee popping/clicking, D: Knee stiffness, E: Knee pain",D
+3,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 20-year-old male football player twisted his knee during a match, followed by a sensation of knee instability. Physical examination revealed a positive Anterior Drawer Test. Which of the following is NOT a differential diagnosis for cruciate ligament injury:
+A: Meniscus injury, B: Collateral ligament injury, C: Patellar dislocation, D: Patellar tendinitis, E: Chondromalacia patellae",D
+4,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 34-year-old female experienced sudden severe lateral knee pain while running. Physical examination revealed significant tenderness on the lateral aspect of the knee and a positive lateral (varus) stress test. The most likely diagnosis is:
+A: Anterior cruciate ligament injury, B: Lateral collateral ligament (LCL) injury, C: Medial collateral ligament (MCL) injury, D: Chondromalacia patellae, E: Patellar dislocation",B
+5,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old male basketball player complains of knee pain. Physical examination reveals joint line tenderness and a positive McMurray test. The most likely diagnosis is:
+A: Osteoarthritis, B: Chondromalacia patellae, C: Meniscus injury, D: Medial collateral ligament injury, E: Anterior cruciate ligament injury",C
+6,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 25-year-old male basketball player complains of severe medial knee pain upon landing from a jump. MRI shows a medial meniscus tear. The treatment principles for meniscus injury do NOT include which of the following:
+A: Early cold compress, B: Knee brace fixation, C: Immediate high-intensity rehabilitation training, D: Surgical or conservative treatment based on injury severity, E: Avoiding weight-bearing walking on the affected limb in the early stage",C
+7,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 28-year-old female injured her right knee while cycling, causing pain and discomfort. Physical examination revealed medial knee tenderness and a positive medial McMurray test. Among the following, the most likely diagnosis is:
+A: Anterior cruciate ligament injury, B: Lateral meniscus injury, C: Medial meniscus injury, D: Chondromalacia patellae, E: Patellar dislocation",C
+8,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old male complains of knee pain, especially aggravated after prolonged walking. Physical examination reveals mild knee swelling and no obvious tenderness. X-ray shows mild joint space narrowing. Which of the following is NOT a treatment principle for osteoarthritis:
+A: Weight reduction, B: Avoiding high-intensity sports, C: Long-term use of non-steroidal anti-inflammatory drugs (NSAIDs), D: Physical therapy, E: Functional exercise",C
+9,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 58-year-old female has had right knee pain upon walking for 1 year; she can walk 1km but has difficulty going up/down stairs and squatting. The right knee swells when pain is severe, and symptoms resolve immediately with rest. Examination: Atrophy of the vastus medialis of the right quadriceps, right knee range of motion 10～每90～, pain on hyperflexion/hyperextension (+), patellar border tenderness (+), medial joint space tenderness (+), patellar grind test (+). X-ray shows narrowing of the right medial knee joint space and hyperplasia of opposing articular surfaces. The most likely diagnosis is:
+A: Chondromalacia patellae, B: Knee meniscus injury, C: Knee osteoarthritis, D: Rheumatoid arthritis, E: Knee synovitis",C
+10,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 58-year-old female has had right knee pain upon walking for 1 year; she can walk 1km but has difficulty going up/down stairs and squatting. The right knee swells when pain is severe, and symptoms resolve immediately with rest. Examination: Atrophy of the vastus medialis of the right quadriceps, right knee range of motion 10～每90～, pain on hyperflexion/hyperextension (+), patellar border tenderness (+), medial joint space tenderness (+), patellar grind test (+). X-ray shows narrowing of the right medial knee joint space and hyperplasia of opposing articular surfaces. The best treatment choice for this patient is:
+A: Supracondylar femoral osteotomy, B: High tibial osteotomy, C: Knee arthrodesis (fusion), D: Non-surgical treatment, E: Total knee arthroplasty",D
+11,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old male complains of knee pain aggravated by activity. Physical examination reveals knee swelling, and X-ray shows joint space narrowing. The most likely diagnosis is:
+A: Osteoarthritis, B: Cruciate ligament injury, C: Chondromalacia patellae, D: Meniscus injury, E: Patellar dislocation",A
+12,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old female complains of knee pain, especially aggravated when going up and down stairs. Physical examination reveals medial joint line tenderness, and X-ray shows joint space narrowing. The most likely diagnosis is:
+A: Patellar dislocation, B: Osteoarthritis, C: Cruciate ligament injury, D: Chondromalacia patellae, E: Meniscus injury",B
+13,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A patient, a 20-year-old young athlete, presents with infrapatellar pain and right knee weakness for 3 months. Pain occurs with knee flexion/extension, and stairs are difficult. Physical exam: Tenderness at the patellar border, patellar grind test (+). Mild quadriceps atrophy. Right knee plain film is unremarkable; radionuclide scan shows localized uptake in the patella. The clinical diagnosis is:
+A: Meniscus injury, B: Cruciate ligament injury, C: Collateral ligament injury, D: Chondromalacia patellae, E: Patellar tendinitis",D
+14,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 28-year-old female with left knee pain and discomfort for 3 months is considered for a diagnosis of ""Chondromalacia Patellae"". Which of the following treatment methods should NOT be taken as the first choice:
+A: Physical therapy, B: Functional exercise, C: Pharmacotherapy, D: Intra-articular injection, E: Surgical treatment",E
+15,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 35-year-old female complains of knee pain when going up and down stairs. Physical examination reveals retropatellar tenderness and a positive patellar compression/grind test. The most likely diagnosis is:
+A: Patellar fracture, B: Patellar dislocation, C: Chondromalacia patellae, D: Cruciate ligament injury, E: Meniscus injury",C
+16,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old female complains of anterior knee pain when going up and down stairs. Physical examination reveals patellar tenderness and a positive patellar compression/grind test. Which of the following is NOT a clinical manifestation of chondromalacia patellae:
+A: Patellar tenderness, B: Positive patellar compression/grind test, C: Discomfort during knee movement, D: Aggravated pain during knee movement, E: Knee stiffness",E
+17,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+An athlete suddenly heard a tearing sound in the left knee during a 100m sprint and fell. Physical examination showed an inability to actively extend the left knee. X-ray showed a mid-patellar fracture. The considered cause of the fracture is:
+A: Direct violence, B: Indirect violence, C: Pathological fracture, D: Muscle traction, E: Cumulative strain",D
+18,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old female complains of knee pain and limited mobility. Physical examination reveals increased patellar mobility and a positive patellar apprehension test. The most likely diagnosis is:
+A: Patellar fracture, B: Patellar dislocation, C: Chondromalacia patellae, D: Cruciate ligament injury, E: Meniscus injury",B
+19,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 28-year-old female dance, young female patient with a background in dance training, has had recurrent knee dislocations over the past month. Physical examination reveals a positive J-sign. A positive J-sign most likely indicates which of the following diseases:
+A: Cruciate ligament injury, B: Chondromalacia patellae, C: Meniscus injury, D: Patellar dislocation, E: Collateral ligament injury",D
+20,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 16-year-old female volleyball player suffered a patellar dislocation after strenuous exercise. Her clinical manifestations do NOT include which of the following:
+A: Sensation of knee dislocation, B: Increased patellar mobility, C: Knee stiffness, D: Possibility of spontaneous reduction, E: Positive apprehension test",C
+21,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 67-year-old female has had bilateral knee pain and deformity for 5 years and can now only walk 100m with pain. Examination: Bow-legs (O-type legs), knee range of motion 30～每60～. Plain X-ray shows disappearance of bilateral medial joint spaces and a femorotibial angle of 190～. The preferred treatment is:
+A: Bed rest and limb protection, B: Intra-articular injection of local anesthetic and corticosteroids, C: Arthroscopic knee debridement, D: Total knee arthroplasty, E: Knee fusion",D
+22,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 60-year-old female with severe left knee arthritis developed redness and swelling of the knee skin due to applying analgesic patches. What is the next step in management for this patient:
+A: Perform total knee arthroplasty, B: Intra-articular injection of sodium hyaluronate, C: Bed rest and ice compress on the knee, D: Strengthen functional exercises, E: Continue applying the drugs for external use",C
+23,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 20-year-old female injured her right hip in a car accident. She has right hip pain, dares not move the right lower limb, and the limb presents with flexion, adduction, internal rotation, and shortening deformity. X-ray confirms hip dislocation. Which is the correct method for reduction:
+A: Must be performed under general anesthesia or spinal anesthesia, B: Must be performed under X-ray fluoroscopy monitoring, C: Manual reduction can be performed without any anesthesia, D: Open reduction must be performed, E: Plaster external fixation for 2每3 weeks is required after successful reduction",A
+24,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 20-year-old male basketball player suffered a hip impact during a game, followed by severe hip pain. Physical examination revealed a feeling of emptiness in the hip joint. The most likely diagnosis is:
+A: Femoroacetabular impingement (FAI), B: Hip dislocation, C: Hip arthritis, D: Hip dysplasia, E: Avascular necrosis of the femoral head",B
+25,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 25-year-old male football player suffered a hip dislocation after an injury during a match. Which of the following is NOT a clinical manifestation of hip dislocation:
+A: Severe hip pain, B: Feeling of emptiness in the hip joint, C: Hip clicking/snapping, D: Limb shortening, E: Hip presenting in flexion, adduction, and internal rotation deformity",C
+26,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 25-year-old male football player complains of hip pain after strenuous exercise. Physical examination reveals limited hip mobility and a positive FABER test. The most likely diagnosis is:
+A: Femoroacetabular impingement (FAI), B: Avascular necrosis of the femoral head, C: Hip arthritis, D: Hip dysplasia, E: Hip dislocation",A
+27,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 30-year-old female dance teacher complains of hip pain following dance training. MRI shows hip cartilage damage. Which of the following is NOT a clinical manifestation of femoroacetabular impingement (FAI):
+A: Hip pain, B: Hip redness and swelling, C: Hip clicking/popping, D: Limited hip mobility, E: Hip locking",B
+28,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old female complains of hip pain, especially aggravated when going up and down stairs. Physical examination reveals limited internal rotation of the hip and a positive FABER test. The most likely diagnosis for this patient is:
+A: Avascular necrosis of the femoral head, B: Hip dislocation, C: Hip arthritis, D: Hip dysplasia, E: Femoroacetabular impingement (FAI)",E
+29,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 30-year-old female dance teacher complains of hip pain following dance training. Physical examination reveals limited hip mobility and a positive FABER test. Which of the following is NOT a treatment principle for femoroacetabular impingement (FAI):
+A: Avoiding repetitive impingement movements, B: Immediate high-intensity rehabilitation training, C: Physical therapy and functional exercise, D: Surgical treatment when necessary, E: Oral anti-inflammatory and analgesic medication",B
+30,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 63-year-old male, usually in good health, was hit by a car and has swelling and pain in the left hip. X-ray indicates: Left femoral neck subcapital fracture. The preferred treatment is:
+A: Cannulated screw internal fixation, B: Lower limb skeletal traction, C: Hip spica cast fixation, D: Lower limb skin traction, E: Artificial femoral head replacement",E
+31,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old female underwent cannulated screw fixation for a left femoral neck subcapital fracture 10 months ago and began walking 3 months post-operatively. For the past 2 months, she has had significant left hip pain and cannot walk. X-ray shows uneven density of the left femoral head, though morphology is basically normal. The diagnosis should be:
+A: Left hip tuberculosis, B: Traumatic arthritis, C: Septic arthritis, D: Avascular necrosis of the left femoral head, E: Femoral head tumor",D
+32,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old male has had right hip pain for half a day following a fall. X-ray shows a right femoral neck fracture, basocervical type, Garden type II. The preferred treatment plan is:
+A: Right artificial femoral head replacement, B: Right total hip arthroplasty, C: Right hip arthrodesis, D: Cannulated screw fixation, E: Right lower limb skin traction for 8 weeks",D
+33,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old male with a history of long-term heavy alcohol consumption presents with dull pain in the inguinal region, aggravated by activity and relieved by rest. X-ray shows uneven density of the femoral head with cystic changes. The most likely diagnosis for this patient is:
+A: Avascular necrosis of the femoral head, B: Hip arthritis, C: Hip dysplasia, D: Hip synovitis, E: Femoroacetabular impingement",A
+34,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old male with a history of long-term steroid use complains of hip pain, especially severe when weight-bearing. MRI shows irregular low T1 and high T2 signals within the femoral head. Which of the following is NOT a clinical manifestation of avascular necrosis of the femoral head:
+A: Pain in the inguinal region, B: Claudication, C: Limited joint mobility, D: Significant joint swelling, E: Leg length discrepancy",D
+35,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 70-year-old male underwent trifin nail fixation for a femoral neck fracture 10 months ago, but still has pain during hip movement. X-ray shows increased density of the femoral head and unclear trabecular texture. This should be considered as:
+A: Degenerative arthritis, B: Septic arthritis, C: Traumatic arthritis, D: Hip osteoarthritis, E: Joint tuberculosis",C
+36,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 55-year-old female with hip osteoarthritis suffers from significant pain and movement disorders that severely affect her quality of life. The first choice should be:
+A: Osteotomy, B: Artificial joint replacement, C: Joint debridement, D: Core decompression, E: Pharmacotherapy",B
+37,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 35-year-old male complains of hip pain, especially aggravated after prolonged walking. Physical examination reveals mild hip swelling and no obvious tenderness. X-ray shows hip joint space narrowing. The most likely diagnosis for this patient is:
+A: Femoroacetabular impingement, B: Avascular necrosis of the femoral head, C: Hip arthritis, D: Hip dysplasia, E: Hip dislocation",C
+38,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old male complains of hip pain, especially aggravated after prolonged standing. Physical examination reveals mild hip swelling and no obvious tenderness. X-ray shows hip joint space narrowing. Which of the following is NOT a differential diagnosis for hip arthritis:
+A: Femoroacetabular impingement, B: Avascular necrosis of the femoral head, C: Acetabular labrum injury, D: Hip dysplasia, E: Hip dislocation",E
+39,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 67-year-old male has had bilateral hip pain for 10 years and claims a walking distance of only 100 meters. Hip arthritis is considered. Which of the following is the main X-ray manifestation of hip arthritis:
+A: Uneven density of the femoral head with cystic changes, B: Uniform bone quality of the hip joint, C: Sacroiliac joint hyperplasia, D: Hip joint space narrowing and osteophyte formation, E: Poor match between acetabulum and femoral head, discontinuous Shenton line",D
+40,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 25-year-old female complains of hip pain when walking since childhood. Physical examination reveals a positive Trendelenburg sign. The most likely diagnosis is:
+A: Femoroacetabular impingement, B: Avascular necrosis of the femoral head, C: Hip arthritis, D: Developmental dysplasia of the hip (DDH), E: Hip dislocation",D
+41,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 30-year-old female complains of hip pain, aggravated especially when walking. Physical examination reveals mild flexion deformity of the hip. X-ray shows poor matching of the acetabulum and femoral head, and a discontinuous Shenton line. Which of the following is a treatment principle for hip dysplasia:
+A: Early hip replacement surgery, B: Avoiding heavy physical labor and prolonged standing, C: Immediate high-intensity rehabilitation training, D: Long-term use of non-steroidal anti-inflammatory drugs, E: Intra-articular steroid injection",B
+42,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 25-year-old female dancer complains of hip pain, especially aggravated during external rotation. Physical examination reveals limited hip mobility. X-ray shows a shallow acetabulum and incomplete coverage of the femoral head. The most likely diagnosis for this patient is:
+A: Hip synovitis, B: Hip dysplasia, C: Avascular necrosis of the femoral head, D: Femoroacetabular impingement, E: Labral injury",B
+43,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old female diagnosed with mixed cervical spondylosis 3 years ago without active treatment now has severe pain during left shoulder movement, cannot comb her hair, and has severely limited left shoulder abduction, extension, and external rotation. There is deltoid atrophy, and significant tenderness at the supraspinatus, long and short heads of the biceps tendon, and the lateral shoulder joint. The cause of the shoulder pain is:
+A: Shoulder tumor, B: Scapulohumeral periarthritis (Frozen Shoulder), C: Cervical spondylosis, D: Shoulder joint tuberculosis, E: Rheumatoid arthritis",B
+44,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old male programmer recently developed limited shoulder mobility without obvious cause, with external rotation being significantly limited. Physical examination reveals a significantly reduced range of motion in the shoulder. The most likely diagnosis is:
+A: Adhesive capsulitis, B: Rotator cuff injury, C: Shoulder impingement syndrome, D: Shoulder dislocation, E: Shoulder joint tuberculosis",A
+45,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old female has had right shoulder pain for 1 month and localized tenderness in the left shoulder. Left shoulder abduction, external rotation, and extension are limited. The diagnosis is:
+A: Chondromalacia patellae, B: Cervical spondylosis, C: Lateral epicondylitis of the humerus, D: Frozen Shoulder, E: Stenosing tenosynovitis of the radial styloid",D
+46,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old male complains of shoulder stiffness. Physical examination reveals limited active and passive shoulder movement. Which of the following is NOT a clinical manifestation of adhesive capsulitis:
+A: Reduced range of shoulder motion, B: Shoulder pain, C: Significant swelling of the shoulder joint, D: Shoulder stiffness, E: Limited external rotation of the shoulder",C
+47,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old male complains of shoulder stiffness. Physical examination reveals limited active and passive shoulder movement. Which of the following is a treatment principle for adhesive capsulitis:
+A: Early cold compress, B: Shoulder brace fixation, C: Immediate high-intensity rehabilitation training, D: Physical therapy and functional exercise, E: Early surgical treatment",D
+48,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old female complains of shoulder pain, especially aggravated at night. Physical examination reveals weakness in shoulder abduction. MRI shows a partial rotator cuff tear. The most likely diagnosis for this patient is:
+A: Shoulder arthritis, B: Rotator cuff injury, C: Shoulder impingement syndrome, D: Shoulder dislocation, E: Adhesive capsulitis",B
+49,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 55-year-old female complains of shoulder pain, aggravated especially during external rotation. Physical examination reveals a complete rotator cuff tear. Which of the following is NOT a treatment principle for rotator cuff injury:
+A: Early cold compress, B: Shoulder brace fixation, C: Oral anti-inflammatory and analgesic medication, D: Immediate high-intensity rehabilitation training, E: Selecting surgical or conservative treatment based on injury severity",D
+50,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 30-year-old female dancer complains of shoulder pain, especially aggravated during abduction. Physical examination reveals a partial rotator cuff tear. Which of the following is NOT a differential diagnosis for rotator cuff injury:
+A: Adhesive capsulitis, B: Rotator cuff injury, C: Shoulder impingement syndrome, D: Shoulder dislocation, E: Shoulder bursitis",D
+51,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old female complains of shoulder pain, especially aggravated when lifting the arm. Physical examination reveals a partial rotator cuff tear. Which of the following is NOT a typical clinical manifestation of rotator cuff injury:
+A: Shoulder pain, B: Shoulder swelling, C: Weakness in shoulder abduction, D: Reduced range of shoulder motion, E: Weakness in lifting the upper limb",B
+52,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old female recently developed right shoulder pain, especially obvious during abduction and rotation of the shoulder, aggravated at night. The patient has a history of recurrent right shoulder trauma. Examination shows weakness in right shoulder abduction, a limp-like motion when lifting the shoulder, and a positive Neer impingement test. Which of the following statements is correct:
+A: Rotator cuff injury mainly involves tearing of the shoulder joint capsule and ligaments, B: The main cause of rotator cuff injury is inflammation of the subacromial bursa, C: MRI is the preferred imaging method for diagnosing rotator cuff injury, D: Rotator cuff injury mainly occurs in young people, especially athletes, E: Treatment for rotator cuff injury should immediately involve open surgical repair",C
+53,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 35-year-old male engaged in heavy physical labor complains of pain during shoulder abduction, especially aggravated when lifting the arm, with significant night pain affecting sleep. Examination reveals limited shoulder movement, significant tenderness in the subacromial area, and a positive painful arc test. Regarding shoulder impingement syndrome, which of the following descriptions is correct:
+A: Shoulder impingement syndrome mainly affects the joint capsule tissue, B: This disease is common in young males, mainly caused by infection, C: Pain typically worsens during shoulder elevation and internal rotation, D: X-ray is the only imaging tool for diagnosing shoulder impingement syndrome, E: Surgery is the first-choice treatment for shoulder impingement syndrome",C
+54,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 35-year-old male office worker presents with recurrent right shoulder pain located on the lateral aspect, aggravated especially during arm lifting, with dull pain at night. He recently started gym workouts, focusing on weightlifting. Physical examination reveals subacromial tenderness and aggravated pain during 90-degree shoulder abduction and internal rotation. The most likely diagnosis for this patient is:
+A: Rotator cuff tear, B: Frozen shoulder, C: Subacromial impingement syndrome, D: Cervical spondylosis, E: Thoracic outlet syndrome",C
+55,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old male tennis coach presents with right shoulder pain located laterally, especially aggravated when lifting the arm to 90 degrees or higher. The doctor suspects shoulder impingement syndrome; Neer and Hawkins tests are positive. Besides physical examination, which of the following is most helpful for further confirming the diagnosis:
+A: Ultrasound, B: MRI, C: X-ray, D: Electromyography (EMG), E: Electrocardiogram (ECG)",B
+56,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 65-year-old female developed right shoulder pain after gardening and reported limited shoulder mobility when dressing or combing hair. The doctor suspects shoulder impingement syndrome. What is the preferred non-surgical treatment plan for this disease:
+A: Physical therapy and non-steroidal anti-inflammatory drugs (NSAIDs), B: Steroid injection and rest, C: Acupuncture, D: Heat compress and rest, E: Arthroscopic surgery",A
+57,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old male complains of shoulder pain, especially aggravated when lifting the arm. Physical examination reveals subacromial tenderness, and X-ray shows subacromial bone spur formation. The most likely diagnosis for this patient is:
+A: Shoulder impingement syndrome, B: Shoulder dislocation, C: Adhesive capsulitis, D: Shoulder arthritis, E: Rotator cuff injury",A
+58,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 4-year-old male child fell and complained of shoulder pain. Examination revealed the affected shoulder was drooping, movement of the affected limb was impaired, the head was tilted toward the affected side, and the Dugas sign was negative. The most likely diagnosis is:
+A: Brachial plexus injury, B: Radial head subluxation, C: Clavicle fracture, D: Surgical neck fracture of the humerus, E: Shoulder dislocation",C
+59,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 16-year-old male fell on an outstretched hand, with the shoulder in abduction and external rotation. He presents with shoulder pain, swelling, and limited movement. Physical examination shows a positive Dugas sign. The deformity of the patient's shoulder is:
+A: Squared shoulder, B: Shoulder hyperextension/flexion, C: Excessive shoulder protrusion, D: Flexion, abduction, external rotation, E: Adduction, internal rotation",A
+60,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 35-year-old male athlete developed severe pain after a shoulder injury. Physical examination reveals a positive Dugas sign. The most likely diagnosis is:
+A: Shoulder impingement syndrome, B: Shoulder dislocation, C: Adhesive capsulitis, D: Shoulder arthritis, E: Rotator cuff injury",B
+61,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 25-year-old male basketball player developed severe pain after a shoulder injury. Physical examination reveals a positive Dugas sign. Which of the following is NOT a clinical manifestation of shoulder dislocation:
+A: Squared shoulder deformity, B: Shoulder pain, C: Shoulder locking, D: Elastic fixation of the shoulder, E: Positive Hamilton's ruler test (touching the opposite shoulder test)",C
+62,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 35-year-old male developed severe pain after a shoulder injury. Physical examination reveals a positive Dugas sign. Which of the following is NOT a treatment principle for shoulder dislocation:
+A: Immediate reduction, B: Cold compress on the shoulder, C: Shoulder brace fixation, D: Immediate high-intensity rehabilitation training, E: Consider surgery if reduction fails",D
+63,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old female dancer suddenly felt a sensation like being hit by a rod on the left heel when landing from a jump. The most likely diagnosis is:
+A: Anterior talofibular ligament rupture, B: Achilles tendon rupture, C: Ankle fracture, D: Ankle synovitis, E: Ankle dislocation",B
+64,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old female complains of ankle pain, especially aggravated when walking. Physical examination reveals localized tenderness of the Achilles tendon and a positive Thompson test. The most likely diagnosis for this patient is:
+A: Achilles tendon rupture, B: Ankle fracture, C: Ankle synovitis, D: Ankle dislocation, E: Ankle ligament rupture",A
+65,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 30-year-old female had severe pain after her left heel was hit by a bicycle. She cannot actively plantarflex the left foot and cannot stand on tiptoe on one leg. The most likely diagnosis for this patient is:
+A: Posterior talofibular ligament rupture, B: Achilles tendon rupture, C: Ankle fracture, D: Ankle synovitis, E: Ankle dislocation",B
+66,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old male suddenly felt pain like being hit in the back of the calf while playing badminton, followed by an inability to walk normally and limited foot movement. Examination revealed no obvious swelling of the right ankle, but a distinct depression in the lower right calf upon palpation. Which of the following is most likely consistent with the patient's condition:
+A: Achilles tendon rupture is common in elderly patients and often occurs spontaneously, B: The typical manifestation of Achilles tendon rupture is painless limitation of ankle movement, C: Treatment for Achilles tendon rupture consists mainly of rest, without surgery, D: Patients with Achilles tendon rupture often feel severe pain at onset and require early intervention, E: Achilles tendon rupture mostly occurs in the adolescent population",D
+67,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 26-year-old female experienced sudden severe heel pain while running, and a depression was palpable in the Achilles tendon area. The examination that can help diagnose this patient is:
+A: Anterior drawer test, B: Varus/Valgus stress test, C: Talar tilt test, D: Thompson test, E: Silfverskiold test",D
+68,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old male complains of left ankle pain for 3 days. X-ray shows an ankle fracture line. Which of the following is NOT a treatment principle for ankle fracture:
+A: Anatomical reduction of the fracture, B: Early functional exercise, C: Long-term bed rest, D: Maintaining stability after reduction, E: Considering surgical treatment if reduction fails",C
+69,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 38-year-old female has had right ankle pain for 2 days. X-ray shows an ankle fracture line. Which of the following is a clinical manifestation of ankle fracture:
+A: Ankle instability, B: Ankle swelling, C: Ankle clicking, D: Ankle stiffness, E: Sensation of being hit in the ankle",B
+70,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A male patient has had right ankle pain for 6 hours due to a fall, and an ankle fracture is considered. Which of the following examinations is the first choice for diagnosing ankle fracture:
+A: MRI, B: X-ray, C: CT scan, D: Ultrasound, E: Radionuclide scan",B
+71,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 32-year-old male twisted his ankle while playing football. After the injury, he had severe pain, could not stand, the ankle was significantly swollen, and the foot was deformed. X-ray showed a clear fracture line between the talus and fibula. Regarding ankle fracture, which of the following descriptions is correct:
+A: Ankle fractures usually do not require surgery and can recover with conservative treatment, B: Ankle fractures are often accompanied by soft tissue injury, and post-operative rehabilitation training is important, C: Ankle fractures are mostly spontaneous fractures caused by osteoporosis in elderly patients, D: Treatment of ankle fractures generally does not require plaster fixation, E: The recovery period for ankle fracture is only 1-2 weeks",B
+72,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 48-year-old male suffered a left ankle fracture due to trauma. Regarding the treatment methods for ankle fracture, which of the following options is incorrect:
+A: Rigid internal fixation, B: The ankle mortise should not be too large or too small, C: Anatomical alignment of the fracture, D: Early functional exercise, E: Repeated reduction attempts, striving for closed reduction to avoid surgery",E
+73,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 35-year-old male basketball player sprained his ankle during a game, feeling sudden severe pain followed by significant swelling. Physical examination reveals limited ankle movement. The most likely diagnosis is:
+A: Anterior talofibular ligament rupture, B: Achilles tendon rupture, C: Ankle fracture, D: Ankle synovitis, E: Ankle dislocation",A
+74,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 30-year-old female complains of twisting her left ankle when stepping on emptiness while going down stairs. There is lateral left ankle pain, aggravated by running. Physical examination reveals tenderness at the lateral malleolus. The most likely diagnosis is:
+A: Anterior talofibular ligament rupture, B: Achilles tendon rupture, C: Ankle fracture, D: Ankle synovitis, E: Ankle dislocation",A
+75,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 25-year-old male football player was injured during a match. Physical examination revealed a positive ankle Anterior Drawer Test. The most likely diagnosis is:
+A: Anterior talofibular ligament rupture, B: Talofibular ligament rupture, C: Posterior talofibular ligament rupture, D: Calcaneofibular ligament rupture, E: Ankle dislocation",A
+76,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 30-year-old male basketball player was injured during a match. Physical examination revealed a positive ankle Anterior Drawer Test. Which of the following is a treatment principle for the acute phase of ankle ligament rupture:
+A: Early cold compress, B: Brace fixation, C: High-intensity rehabilitation training, D: Long-term use of NSAIDs, E: Massage therapy",A
+77,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 25-year-old female twisted her ankle during a basketball game, developing severe pain and swelling. Her ankle felt weak when attempting to stand, making walking difficult. MRI suggested a complete rupture of the lateral ankle ligaments. Regarding ankle ligament rupture, which of the following is correct:
+A: Ligament rupture requires no special treatment; normal function returns after swelling subsides, B: Patients with ligament rupture usually do not need rehabilitation, C: Early activity should be avoided after ligament rupture to prevent aggravating the injury, D: The typical symptom of ligament rupture is local heat without significant swelling, E: Diagnosis of ligament rupture does not require imaging examination",C
+78,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 27-year-old male who enjoys tennis has had right lateral elbow pain for 2 months, aggravated for 5 days, with weakness in holding objects. Physical exam: Apart from localized tenderness at the lateral right elbow, which of the following tests is most helpful for diagnosis:
+A: Froment test, B: Finkelstein test, C: Mills test, D: Gaenslen test, E: Dugas test",C
+79,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old female has had right lateral elbow pain for 2 months, aggravated by forceful gripping or wringing a towel. There is localized tenderness at the lateral right elbow and a positive Mills sign. Her diagnosis is:
+A: Chondromalacia patellae, B: Cervical spondylosis, C: Lateral epicondylitis of the humerus, D: Scapulohumeral periarthritis, E: Stenosing tenosynovitis of the radial styloid",C
+80,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old male complains of lateral elbow pain, especially aggravated when forcefully gripping or lifting the wrist. Which of the following is NOT a cause of lateral epicondylitis:
+A: Long-term repetitive use of hand, wrist, and elbow, B: Long-term engagement in tennis, C: History of elbow trauma, D: Work involving long-term use of vibrating tools, E: All of the above",C
+81,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old male complains of lateral elbow pain, especially aggravated when forcefully gripping or lifting the wrist. Which of the following is a prognostic factor for lateral epicondylitis:
+A: Timeliness of treatment, B: Patient's age, C: Choice of treatment method, D: Work style, E: All of the above factors",E
+82,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 17-year-old male fell and injured his right elbow 2 days ago. The right elbow is swollen with significant tenderness, limited movement, and bone crepitus at the medial epicondyle. Which examination is the first choice for diagnosis:
+A: CT, B: X-ray, C: Ultrasound, D: Radionuclide bone scan, E: MRI",B
+83,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 50-year-old female complains of elbow pain. X-ray shows bone hyperplasia (osteophytes) in the elbow. Which of the following is a treatment principle for elbow deformity:
+A: Early limb functional exercise, B: Avoiding premature weight-bearing and heavy physical activity of the affected limb, C: Long-term immobilization, D: Immediate high-intensity rehabilitation training, E: Immediate surgical treatment",B
+84,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old male injured his right elbow when falling off a bike. The triangular relationship of the posterior elbow is abnormal. The most likely diagnosis for this patient is:
+A: Lateral epicondylitis of the humerus, B: Elbow deformity, C: Elbow dislocation, D: Radial head subluxation, E: Cubital tunnel syndrome",C
+85,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 32-year-old male fell during a football match, landing on his right hand, and felt severe pain in the elbow with inability to move it normally. Emergency exam revealed a swollen right elbow with obvious deformity. X-ray showed complete dislocation of the right elbow but no fracture. The most likely treatment for this patient is:
+A: Immediate surgery to repair ligaments, B: Manual reduction followed by short-term plaster fixation, C: Direct administration of anti-inflammatories and observation for natural recovery, D: Fixation with a long arm brace without manual reduction, E: Waiting 1-2 weeks before reduction to reduce risk of re-dislocation",B
+86,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 25-year-old female fell off a bicycle, causing a right elbow dislocation, which was reduced in the emergency room. After successful reduction, the doctor recommended rehabilitation training during the recovery period. Which of the following is the most important care goal for this patient during recovery:
+A: Avoid any form of elbow movement to prevent re-dislocation, B: Immediate high-intensity resistance training to restore strength, C: Control swelling and pain, and gradually increase elbow range of motion, D: Perform only wrist movements and avoid stretching the elbow, E: Fixation with a brace for 6 months, avoiding joint movement",C
+87,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 3-year-old male child cried and refused to move his elbow after his arm was pulled by a parent. Physical examination revealed tenderness at the radial head. The most likely diagnosis is:
+A: Lateral epicondylitis of the humerus, B: Elbow deformity, C: Elbow dislocation, D: Radial head subluxation, E: Cubital tunnel syndrome",D
+88,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 4-year-old female child cried and refused to move her elbow after her arm was pulled by a parent. Physical examination revealed tenderness at the radial head. The treatment method required for this child is:
+A: Hippocrates method, B: Skeletal traction reduction, C: Open reduction, D: Allis method, E: No traction required, rotation method only",E
+89,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old female complains of elbow pain, especially aggravated during elbow flexion. Physical examination reveals subluxation and thickening of the ulnar nerve at the elbow. The most likely diagnosis is:
+A: Lateral epicondylitis of the humerus, B: Elbow deformity, C: Elbow dislocation, D: Radial head subluxation, E: Cubital tunnel syndrome",E
+90,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old female complains of elbow pain, especially aggravated during elbow flexion. Physical examination reveals subluxation and thickening of the ulnar nerve at the elbow. Which of the following is a preventive measure for cubital tunnel syndrome:
+A: Avoiding prolonged elbow flexion, B: Avoiding sleeping with the elbow under the head/pillow, C: Moving the elbow frequently, D: Trying to avoid long-term repetitive use of hand, wrist, and elbow, E: All of the above measures",E
+91,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 51-year-old female has had left elbow pain for 10 years and works in parts assembly for a long time. Diagnosis of ""Cubital Tunnel Syndrome"" is considered. Which of the following signs is NOT consistent with the clinical manifestations of cubital tunnel syndrome:
+A: Atrophy of intrinsic hand muscles and hypothenar muscles, B: Ape hand, C: Positive Tinel sign, D: Positive Froment sign, E: Weakness in pinching paper",B
+92,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 45-year-old female complains of wrist pain, especially aggravated at night. Physical examination reveals reduced grip strength. The most likely diagnosis is:
+A: Carpal tunnel syndrome, B: Stenosing tenosynovitis, C: Cubital tunnel syndrome, D: Wrist arthritis, E: Triangular Fibrocartilage Complex (TFCC) injury",A
+93,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 40-year-old male complains of wrist pain, especially aggravated when using a computer mouse. Which of the following is NOT a cause of carpal tunnel syndrome:
+A: Long-term repetitive wrist activity, B: Long-term high-load weightlifting training, C: Endocrine system diseases, D: History of wrist trauma, E: None of the above",D
+94,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 28-year-old female has had left wrist pain for 6 months. Physical examination reveals reduced grip strength. Which of the following is a preventive measure for carpal tunnel syndrome:
+A: Avoiding prolonged excessive wrist flexion, B: Regularly performing wrist stretching exercises, C: Long-term use of a wrist support pad, D: Avoiding maintaining the same wrist posture for a long time, E: All of the above measures",E
+95,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 53-year-old female who does housework for long periods has had right wrist pain for 3 years, unrelieved by oral painkillers. ""Carpal Tunnel Syndrome"" is considered. Which of the following signs is likely to be positive in this patient:
+A: Finkelstein sign, B: Tinel sign, C: Mills sign, D: Lasegue sign, E: Thomas sign",B
+96,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 48-year-old female has suffered from stenosing tenosynovitis of the left thumb for 2 weeks. The simplest and most effective treatment method at this time is:
+A: Immobilization, B: Tenosynovial incision (release surgery), C: Local block with prednisolone acetate, D: Physical therapy, E: Local injection of antibiotics",C
+97,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 42-year-old female has had snapping of the right thumb with significant pain in the interphalangeal joint for half a year, and inability to actively straighten the right thumb for half a day. Examination: A hard nodule the size of a soybean is palpable on the palmar aspect of the first metacarpophalangeal joint, with significant tenderness. A snap is palpable at the nodule upon passive flexion and extension of the right thumb. The diagnosis is:
+A: Flexor pollicis longus tenosynovitis (Trigger thumb), B: Ganglion cyst, C: Rheumatic nodule, D: Tumor, E: Osteoarthropathy",A
+98,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 31-year-old female has had left wrist pain for 1 month. There is localized tenderness on the radial side of the left wrist and a positive Finkelstein test. The diagnosis is:
+A: Chondromalacia patellae, B: Cervical spondylosis, C: Lateral epicondylitis of the humerus, D: Frozen shoulder, E: Stenosing tenosynovitis of the radial styloid",E
+99,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 35-year-old male who uses vibrating tools for work complains of wrist pain. Diagnosis of ""Stenosing Tenosynovitis"" is considered. Which of the following is NOT a clinical manifestation of stenosing tenosynovitis:
+A: Volar wrist pain, B: Aggravated pain during finger flexion and extension, C: Reduced grip strength, D: Dorsal wrist swelling, E: Tenderness on the radial side of the wrist",D
+100,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 30-year-old male who uses a mouse and keyboard for work has had right wrist pain for 2 months. Diagnosis of ""Stenosing Tenosynovitis"" is considered. A method with good efficacy for this patient is:
+A: Physical therapy, B: Activity restriction and plaster fixation, C: Oral non-steroidal anti-inflammatory drugs, D: Topical medication patches, E: Local block with prednisone acetate",E
+101,"Based on the case, answer the following multiple-choice question. Requirement: Output only the option, no explanatory text:
+A 52-year-old male fell off a bike landing on his left hand, causing left wrist pain for 6 hours. TFCC injury is considered. Which of the following is NOT a clinical manifestation of TFCC injury:
+A: Ulnar-sided wrist pain, B: Limited wrist movement, C: Difficulty rotating the wrist, D: Reduced wrist strength, E: Protruding mass on the wrist",E

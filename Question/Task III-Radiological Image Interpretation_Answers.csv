@@ -1,0 +1,1422 @@
+Number,Question,Image_path,Answer,
+1,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial meniscus injury
+B: Lateral meniscus injury
+C: Lateral collateral ligament injury 
+D: Anterior cruciate ligament rupture
+E: Medial collateral ligament rupture",knee/1.PNG,B,
+2,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial collateral ligament rupture
+B: Medial meniscus injury
+C: Lateral meniscus injury 
+D: Lateral collateral ligament injury
+E: Anterior cruciate ligament rupture",knee/2.PNG,B,
+3,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Anterior cruciate ligament rupture
+B: Medial collateral ligament rupture
+C: Medial meniscus injury 
+D: Lateral meniscus injury
+E: Lateral collateral ligament injury",knee/3.PNG,D,
+4,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral collateral ligament injury
+B: Anterior cruciate ligament rupture
+C: Medial collateral ligament rupture 
+D: Medial meniscus injury
+E: Lateral meniscus injury",knee/4.PNG,D,
+5,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Lateral collateral ligament injury
+C: Anterior cruciate ligament rupture 
+D: Medial collateral ligament rupture
+E: Medial meniscus injury",knee/5.PNG,A,
+6,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial meniscus injury
+B: Lateral meniscus injury
+C: Lateral collateral ligament injury 
+D: Anterior cruciate ligament rupture
+E: Medial collateral ligament rupture",knee/6.PNG,B,
+7,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial collateral ligament rupture
+B: Medial meniscus injury
+C: Lateral meniscus injury 
+D: Lateral collateral ligament injury
+E: Anterior cruciate ligament rupture",knee/7.PNG,C,
+8,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Anterior cruciate ligament rupture
+B: Medial collateral ligament rupture
+C: Medial meniscus injury 
+D: Lateral meniscus injury
+E: Lateral collateral ligament injury",knee/8.PNG,D,
+9,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral collateral ligament injury
+B: Anterior cruciate ligament rupture
+C: Medial collateral ligament rupture 
+D: Medial meniscus injury
+E: Lateral meniscus injury",knee/9.PNG,D,
+10,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Lateral collateral ligament injury
+C: Anterior cruciate ligament rupture 
+D: Medial collateral ligament rupture
+E: Medial meniscus injury",knee/10.PNG,E,
+11,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial meniscus injury
+B: Lateral meniscus injury
+C: Lateral collateral ligament injury 
+D: Anterior cruciate ligament rupture
+E: Medial collateral ligament rupture",knee/11.PNG,A,
+12,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial collateral ligament rupture
+B: Medial meniscus injury
+C: Lateral meniscus injury 
+D: Lateral collateral ligament injury
+E: Anterior cruciate ligament rupture",knee/12.PNG,C,
+13,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Anterior cruciate ligament rupture
+B: Medial collateral ligament rupture
+C: Medial meniscus injury 
+D: Lateral meniscus injury
+E: Lateral collateral ligament injury",knee/13.PNG,D,
+14,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral collateral ligament injury
+B: Anterior cruciate ligament rupture
+C: Medial collateral ligament rupture 
+D: Medial meniscus injury
+E: Lateral meniscus injury",knee/14.PNG,E,
+15,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Lateral collateral ligament injury
+C: Anterior cruciate ligament rupture 
+D: Medial collateral ligament rupture
+E: Medial meniscus injury",knee/15.PNG,A,
+16,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Anterior cruciate ligament rupture
+C: Posterior cruciate ligament rupture 
+D: Medial collateral ligament injury
+E: Lateral collateral ligament injury",knee/16.PNG,B,
+17,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial meniscus injury
+B: Lateral meniscus injury
+C: Re-injury after anterior cruciate ligament reconstruction 
+D: Re-injury after posterior cruciate ligament reconstruction
+E: Medial collateral ligament injury",knee/17.PNG,C,
+18,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial collateral ligament injury
+B: Lateral collateral ligament injury
+C: Patellar luxation
+D: Anterior cruciate ligament rupture
+E: Posterior cruciate ligament rupture",knee/18.PNG,D,
+19,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Posterior cruciate ligament rupture
+B: Medial collateral ligament injury
+C: Medial meniscus injury 
+D: Lateral meniscus injury
+E: Anterior cruciate ligament rupture",knee/19.PNG,E,
+20,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Anterior cruciate ligament rupture
+B: Lateral collateral ligament injury
+C: Medial collateral ligament injury 
+D: Medial meniscus injury
+E: Lateral meniscus injury",knee/20.PNG,A,
+21,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Anterior cruciate ligament rupture
+C: Posterior cruciate ligament rupture 
+D: Medial collateral ligament injury
+E: Medial meniscus injury",knee/21.PNG,B,
+22,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial meniscus injury
+B: Lateral meniscus injury
+C: Re-injury after anterior cruciate ligament reconstruction 
+D: Re-injury after posterior cruciate ligament reconstruction
+E: Medial collateral ligament injury",knee/22.PNG,C,
+23,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial collateral ligament injury
+B: Medial meniscus injury
+C: Lateral meniscus injury 
+D: Anterior cruciate ligament rupture
+E: Posterior cruciate ligament rupture",knee/23.PNG,E,
+24,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Posterior cruciate ligament rupture
+B: Medial collateral ligament injury
+C: Medial meniscus injury 
+D: Lateral meniscus injury
+E: Anterior cruciate ligament rupture",knee/24.PNG,A,
+25,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Anterior cruciate ligament rupture
+B: Posterior cruciate ligament rupture
+C: Medial collateral ligament injury 
+D: Medial meniscus injury
+E: Lateral meniscus injury",knee/25.PNG,A,
+26,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Anterior cruciate ligament rupture
+C: Posterior cruciate ligament rupture 
+D: Medial collateral ligament injury
+E: Medial meniscus injury",knee/26.PNG,C,
+27,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial meniscus injury
+B: Lateral meniscus injury
+C: Anterior cruciate ligament rupture 
+D: Posterior cruciate ligament rupture
+E: Medial collateral ligament injury",knee/27.PNG,C,
+28,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial collateral ligament injury
+B: Lateral collateral ligament injury
+C: Lateral meniscus injury 
+D: Anterior cruciate ligament rupture
+E: Posterior cruciate ligament rupture",knee/28.PNG,E,
+29,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral collateral ligament injury
+B: Medial collateral ligament injury
+C: Medial meniscus injury 
+D: Lateral meniscus injury
+E: Anterior cruciate ligament rupture",knee/29.PNG,E,
+30,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Anterior cruciate ligament rupture
+B: Lateral collateral ligament injury
+C: Medial collateral ligament injury 
+D: Medial meniscus injury
+E: Lateral meniscus injury",knee/30.PNG,A,
+31,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Anterior cruciate ligament rupture
+C: Patellar luxation 
+D: Medial collateral ligament injury
+E: Medial meniscus injury",knee/31.JPG,C,
+32,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial meniscus injury
+B: Lateral meniscus injury
+C: Anterior cruciate ligament rupture 
+D: Patellar luxation
+E: Posterior cruciate ligament injury",knee/32.JPG,D,
+33,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial collateral ligament injury
+B: Medial meniscus injury
+C: Lateral meniscus injury 
+D: Anterior cruciate ligament rupture
+E: Patellar luxation",knee/33.JPG,E,
+34,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Patellar luxation
+B: Medial collateral ligament injury
+C: Medial meniscus injury 
+D: Lateral meniscus injury
+E: Anterior cruciate ligament rupture",knee/34.JPG,A,
+35,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Anterior cruciate ligament rupture
+B: Patellar luxation
+C: Medial collateral ligament injury 
+D: Medial meniscus injury
+E: Lateral meniscus injury",knee/35.JPG,B,
+36,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Anterior cruciate ligament rupture
+C: Postoperative changes in the knee joint
+D: Medial collateral ligament injury
+E: Medial meniscus injury",knee/36.PNG,C,
+37,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial meniscus injury
+B: Patellar luxation
+C: Anterior cruciate ligament rupture 
+D: Patellar fracture
+E: Medial collateral ligament injury",knee/37.JPG,D,
+38,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Femoral fracture
+B: Humeral fracture
+C: Tibial fracture
+D: Clavicle fracture
+E: Patellar fracture",knee/38.JPG,C,
+39,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Patellar luxation
+B: Medial collateral ligament injury
+C: Medial meniscus injury 
+D: Lateral meniscus injury
+E: Anterior cruciate ligament rupture",knee/39.PNG,E,
+40,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Anterior cruciate ligament rupture
+B: Patellar luxation
+C: Medial collateral ligament injury 
+D: Medial meniscus injury
+E: Lateral meniscus injury",knee/40.PNG,A,
+41,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Knee osteoarthritis
+B: Knee dislocation
+C: Femur fracture 
+D: Tibia fracture
+E: Fibula fracture",knee/41.PNG,A,
+42,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Knee dislocation
+B: Femur fracture
+C: Tibia fracture 
+D: Fibula fracture
+E: Knee osteoarthritis",knee/42.PNG,E,
+43,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the femur
+B: Tibia fracture
+C: Fibula fracture 
+D: Knee osteoarthritis
+E: Knee dislocation",knee/43.PNG,D,
+44,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Tibia fracture
+B: Fibula fracture
+C: Knee osteoarthritis 
+D: Knee dislocation
+E: Fracture of the femur",knee/44.PNG,C,
+45,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fibula fracture
+B: Knee osteoarthritis
+C: Knee dislocation 
+D: Femur fracture
+E: Tibia fracture",knee/45.PNG,B,
+46,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial meniscus injury
+B: Lateral meniscus injury
+C: Lateral collateral ligament injury 
+D: Anterior cruciate ligament rupture
+E: Medial collateral ligament rupture",knee/46.PNG,D,
+47,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial collateral ligament rupture
+B: Medial meniscus injury
+C: Lateral meniscus injury 
+D: Lateral collateral ligament injury
+E: Anterior cruciate ligament rupture",knee/47.PNG,C,
+48,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Anterior cruciate ligament rupture
+B: Medial collateral ligament rupture
+C: Medial meniscus injury 
+D: Lateral meniscus injury
+E: Posterior cruciate ligament injury",knee/48.PNG,E,
+49,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral collateral ligament injury
+B: Anterior cruciate ligament rupture
+C: Medial collateral ligament rupture 
+D: Medial meniscus injury
+E: Lateral meniscus injury",knee/49.PNG,B,
+50,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Lateral collateral ligament injury
+C: Anterior cruciate ligament rupture 
+D: Medial collateral ligament rupture
+E: Medial meniscus injury",knee/50.PNG,A,
+51,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial meniscus injury
+B: Lateral meniscus injury
+C: Lateral collateral ligament injury 
+D: Anterior cruciate ligament rupture
+E: Medial collateral ligament rupture",knee/51.BMP,B,
+52,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Medial collateral ligament rupture
+B: Medial meniscus injury
+C: Lateral meniscus injury 
+D: Lateral collateral ligament injury
+E: Anterior cruciate ligament rupture",knee/52.PNG,E,
+53,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Anterior cruciate ligament rupture
+B: Medial collateral ligament rupture
+C: Medial meniscus injury 
+D: Lateral meniscus injury
+E: Posterior cruciate ligament injury",knee/53.PNG,E,
+54,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral collateral ligament injury
+B: Anterior cruciate ligament rupture
+C: Medial collateral ligament rupture 
+D: Medial meniscus injury
+E: Lateral meniscus injury",knee/54.PNG,B,
+55,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Lateral collateral ligament injury
+C: Anterior cruciate ligament rupture 
+D: Medial collateral ligament rupture
+E: Medial meniscus injury",knee/55.PNG,E,
+56,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral meniscus injury
+B: Lateral collateral ligament injury
+C: Anterior cruciate ligament rupture 
+D: Medial collateral ligament rupture
+E: Medial meniscus injury",knee/56.PNG,C,
+57,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip labral injury
+B: Hip dislocation
+C: Necrosis of the femoral head 
+D: Hip dysplasia
+E: Femoral neck fracture",hip/1.JPG,A,
+58,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the femoral neck
+B: Hip labral injury
+C: Hip dislocation 
+D: Necrosis of the femoral head
+E: Hip dysplasia",hip/2.JPG,B,
+59,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dysplasia
+B: Femoral neck fracture
+C: Hip labral injury 
+D: Hip dislocation
+E: Necrosis of the femoral head",hip/3.JPG,C,
+60,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Necrosis of the femoral head
+B: Hip dysplasia
+C: Femoral neck fracture 
+D: Hip labral injury
+E: Hip dislocation",hip/4.JPG,D,
+61,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dislocation
+B: Necrosis of the femoral head
+C: Hip dysplasia 
+D: Femoral neck fracture
+E: Hip labral injury",hip/5.JPG,E,
+62,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip labral injury
+B: Hip dislocation
+C: Necrosis of the femoral head 
+D: Hip dysplasia
+E: Femoral neck fracture",hip/6.JPG,A,
+63,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the femoral neck
+B: Hip labral injury
+C: Hip dislocation 
+D: Necrosis of the femoral head
+E: Hip dysplasia",hip/7.JPG,B,
+64,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dysplasia
+B: Femoral neck fracture
+C: Hip labral injury 
+D: Hip dislocation
+E: Necrosis of the femoral head",hip/8.JPG,C,
+65,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Necrosis of the femoral head
+B: Hip dysplasia
+C: Femoral neck fracture 
+D: Hip labral injury
+E: Hip dislocation",hip/9.JPG,D,
+66,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dislocation
+B: Necrosis of the femoral head
+C: Hip dysplasia 
+D: Femoral neck fracture
+E: Hip labral injury",hip/10.JPG,E,
+67,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip labral injury
+B: Hip dislocation
+C: Necrosis of the femoral head 
+D: Hip dysplasia
+E: Femoral neck fracture",hip/11.JPG,A,
+68,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the femoral neck
+B: Hip labral injury
+C: Hip dislocation 
+D: Necrosis of the femoral head
+E: Hip dysplasia",hip/12.JPG,B,
+69,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dysplasia
+B: Femoral neck fracture
+C: Hip labral injury 
+D: Hip dislocation
+E: Necrosis of the femoral head",hip/13.JPG,C,
+70,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Necrosis of the femoral head
+B: Hip dysplasia
+C: Femoral neck fracture 
+D: Hip labral injury
+E: Hip dislocation",hip/14.JPG,D,
+71,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dislocation
+B: Necrosis of the femoral head
+C: Hip dysplasia 
+D: Femoral neck fracture
+E: Hip labral injury",hip/15.JPG,E,
+72,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip labral injury
+B: Hip dislocation
+C: Necrosis of the femoral head 
+D: Hip dysplasia
+E: Femoral neck fracture",hip/16.JPG,A,
+73,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Femoral shaft fracture 
+B: Hip dislocation
+C: Necrosis of the femoral head 
+D: Hip dysplasia
+E: Femoral neck fracture",hip/17.PNG,C,
+74,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the femoral neck
+B: Femoral shaft fracture
+C: Hip dislocation 
+D: Necrosis of the femoral head
+E: Hip dysplasia",hip/18.PNG,D,
+75,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dysplasia
+B: Femoral neck fracture
+C: Femoral shaft fracture 
+D: Hip dislocation
+E: Necrosis of the femoral head",hip/19.PNG,E,
+76,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Necrosis of the femoral head
+B: Hip dysplasia
+C: Femoral neck fracture 
+D: Femoral shaft fracture
+E: Hip dislocation",hip/20.PNG,A,
+77,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dislocation
+B: Necrosis of the femoral head
+C: Hip dysplasia 
+D: Femoral neck fracture
+E: Femoral shaft fracture",hip/21.PNG,B,
+78,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Femoral shaft fracture 
+B: Hip dislocation
+C: Necrosis of the femoral head 
+D: Hip dysplasia
+E: Femoral neck fracture",hip/22.PNG,C,
+79,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dysplasia
+B: Femoral neck fracture
+C: Hip labral injury 
+D: Hip dislocation
+E: Necrosis of the femoral head",hip/23.PNG,A,
+80,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Necrosis of the femoral head
+B: Hip dysplasia
+C: Femoral neck fracture 
+D: Hip labral injury
+E: Hip dislocation",hip/24.PNG,B,
+81,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dislocation
+B: Necrosis of the femoral head
+C: Hip dysplasia 
+D: Femoral neck fracture
+E: Hip labral injury",hip/25.PNG,C,
+82,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip labral injury
+B: Hip dislocation
+C: Necrosis of the femoral head 
+D: Hip dysplasia
+E: Femoral neck fracture",hip/26.PNG,D,
+83,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the femoral neck
+B: Hip labral injury
+C: Hip dislocation 
+D: Necrosis of the femoral head
+E: Hip dysplasia",hip/27.PNG,E,
+84,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip osteoarthritis
+B: Femoral neck fracture
+C: Hip labral injury 
+D: Hip dislocation
+E: Necrosis of the femoral head",hip/28.PNG,A,
+85,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the femoral neck
+B: Femoral shaft fracture
+C: Hip dislocation 
+D: Necrosis of the femoral head
+E: Hip labral injury",hip/29.PNG,D,
+86,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip labrum injury
+B: Femoral neck fracture
+C: Femoral shaft fracture
+D: Hip dislocation
+E: Hip osteoarthritis",hip/30.PNG,E,
+87,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Femoral shaft fracture 
+B: Intertrochanteric fracture of the femur
+C: Necrosis of the femoral head 
+D: Hip dysplasia
+E: Femoral neck fracture",hip/31.PNG,C,
+88,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the femoral neck
+B: Femoral shaft fracture
+C: Intertrochanteric fracture of the femur 
+D: Necrosis of the femoral head
+E: Hip dysplasia",hip/32.PNG,E,
+89,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dysplasia
+B: Femoral neck fracture
+C: Femoral shaft fracture 
+D: Intertrochanteric fracture of the femur
+E: Necrosis of the femoral head",hip/33.JPG,B,
+90,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Necrosis of the femoral head
+B: Hip dysplasia
+C: Femoral neck fracture 
+D: Femoral shaft fracture
+E: Intertrochanteric fracture of the femur",hip/34.JPG,C,
+91,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dislocation
+B: Necrosis of the femoral head
+C: Hip dysplasia 
+D: Perifemoral prosthesis fracture
+E: Femoral shaft fracture",hip/35.JPG,D,
+92,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Femoral shaft fracture 
+B: Intertrochanteric fracture of the femur
+C: Necrosis of the femoral head 
+D: Hip dysplasia
+E: Femoral neck fracture",hip/36.JPG,B,
+93,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the femoral neck
+B: Femoral shaft fracture
+C: Intertrochanteric fracture of the femur 
+D: Necrosis of the femoral head
+E: Hip dysplasia",hip/37.JPG,C,
+94,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Hip dysplasia
+B: Femoral neck fracture
+C: Femoral shaft fracture 
+D: Intertrochanteric fracture of the femur
+E: Necrosis of the femoral head",hip/38.JPG,D,
+95,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Necrosis of the femoral head
+B: Hip dysplasia
+C: Femoral neck fracture 
+D: Femoral shaft fracture
+E: Intertrochanteric fracture of the femur",hip/39.JPG,D,
+96,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Intertrochanteric fracture of the femur
+B: Necrosis of the femoral head
+C: Hip osteoarthritis
+D: Femoral neck fracture
+E: Femoral shaft fracture",hip/40.JPG,C,
+97,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Adhesive shoulder capsulitis
+B: Clavicle fracture
+C: Shoulder dislocation 
+D: Shoulder labral injury
+E: Rotator cuff tear",shoulder/1.PNG,E,
+98,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Rotator cuff tear
+B: Adhesive shoulder capsulitis
+C: Clavicle fracture 
+D: Shoulder dislocation
+E: Shoulder labral injury",shoulder/2.PNG,A,
+99,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder labral injury
+B: Rotator cuff tear
+C: Adhesive shoulder capsulitis 
+D: Clavicle fracture
+E: Shoulder dislocation",shoulder/3.PNG,B,
+100,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder dislocation
+B: Shoulder labral injury
+C: Rotator cuff tear 
+D: Adhesive shoulder capsulitis
+E: Clavicle fracture",shoulder/4.PNG,C,
+101,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Clavicle fracture
+B: Shoulder dislocation
+C: Shoulder labral injury 
+D: Rotator cuff tear
+E: Adhesive shoulder capsulitis",shoulder/5.PNG,D,
+102,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Adhesive shoulder capsulitis
+B: Clavicle fracture
+C: Shoulder dislocation 
+D: Shoulder labral injury
+E: Rotator cuff tear",shoulder/6.PNG,E,
+103,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Rotator cuff tear
+B: Adhesive shoulder capsulitis
+C: Clavicle fracture 
+D: Shoulder dislocation
+E: Shoulder labral injury",shoulder/7.PNG,A,
+104,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder labral injury
+B: Rotator cuff tear
+C: Adhesive shoulder capsulitis 
+D: Clavicle fracture
+E: Shoulder dislocation",shoulder/8.JPG,B,
+105,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder dislocation
+B: Shoulder labral injury
+C: Rotator cuff tear 
+D: Adhesive shoulder capsulitis
+E: Clavicle fracture",shoulder/9.JPG,C,
+106,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Clavicle fracture
+B: Shoulder dislocation
+C: Shoulder labral injury 
+D: Rotator cuff tear
+E: Adhesive shoulder capsulitis",shoulder/10.JPG,D,
+107,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Adhesive shoulder capsulitis
+B: Clavicle fracture
+C: Shoulder dislocation 
+D: Shoulder labral injury
+E: Rotator cuff tear",shoulder/11.PNG,E,
+108,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Rotator cuff tear
+B: Adhesive shoulder capsulitis
+C: Clavicle fracture 
+D: Shoulder dislocation
+E: Shoulder labral injury",shoulder/12.PNG,A,
+109,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder labral injury
+B: Rotator cuff tear
+C: Adhesive shoulder capsulitis 
+D: Clavicle fracture
+E: Shoulder dislocation",shoulder/13.PNG,E,
+110,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder dislocation
+B: Shoulder labral injury
+C: Rotator cuff tear 
+D: Adhesive shoulder capsulitis
+E: Clavicle fracture",shoulder/14.PNG,A,
+111,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Clavicle fracture
+B: Shoulder dislocation
+C: Shoulder labral injury 
+D: Rotator cuff tear
+E: Adhesive shoulder capsulitis",shoulder/15.JPG,B,
+112,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Adhesive shoulder capsulitis
+B: Clavicle fracture
+C: Shoulder dislocation 
+D: Shoulder labral injury
+E: Rotator cuff tear",shoulder/16.JPG,C,
+113,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Rotator cuff tear
+B: Adhesive shoulder capsulitis
+C: Clavicle fracture 
+D: Shoulder dislocation
+E: Shoulder labral injury",shoulder/17.JPG,D,
+114,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder labral injury
+B: Rotator cuff tear
+C: Adhesive shoulder capsulitis 
+D: Clavicle fracture
+E: Shoulder dislocation",shoulder/18.JPG,E,
+115,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder dislocation
+B: Shoulder labral injury
+C: Rotator cuff tear 
+D: Adhesive shoulder capsulitis
+E: Clavicle fracture",shoulder/19.JPG,A,
+116,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Clavicle fracture
+B: Shoulder dislocation
+C: Shoulder labral injury 
+D: Rotator cuff tear
+E: Adhesive shoulder capsulitis",shoulder/20.JPG,B,
+117,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Adhesive shoulder capsulitis
+B: Clavicle fracture
+C: Shoulder dislocation 
+D: Shoulder labral injury
+E: Rotator cuff tear",shoulder/21.JPG,C,
+118,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Rotator cuff tear
+B: Adhesive shoulder capsulitis
+C: Clavicle fracture 
+D: Shoulder dislocation
+E: Shoulder labral injury",shoulder/22.JPG,D,
+119,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder labral injury
+B: Rotator cuff tear
+C: Adhesive shoulder capsulitis 
+D: Clavicle fracture
+E: Shoulder dislocation",shoulder/23.JPG,C,
+120,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder dislocation
+B: Shoulder labral injury
+C: Rotator cuff tear 
+D: Adhesive shoulder capsulitis
+E: Clavicle fracture",shoulder/24.JPG,D,
+121,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Clavicle fracture
+B: Shoulder dislocation
+C: Shoulder labral injury 
+D: Rotator cuff tear
+E: Adhesive shoulder capsulitis",shoulder/25.JPG,E,
+122,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Adhesive shoulder capsulitis
+B: Clavicle fracture
+C: Shoulder dislocation 
+D: Shoulder labral injury
+E: Rotator cuff tear",shoulder/26.JPG,A,
+123,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Humerus fracture
+B: Adhesive shoulder capsulitis
+C: Clavicle fracture 
+D: Shoulder dislocation
+E: Shoulder labral injury",shoulder/27.JPG,B,
+124,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder labral injury
+B: Rotator cuff tear
+C: Adhesive shoulder capsulitis 
+D: Clavicle fracture
+E: Shoulder dislocation",shoulder/28.PNG,A,
+125,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Shoulder dislocation
+B: Shoulder labral injury
+C: Rotator cuff tear 
+D: Adhesive shoulder capsulitis
+E: Clavicle fracture",shoulder/29.JPG,B,
+126,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Clavicle fracture
+B: Shoulder dislocation
+C: Shoulder labral injury 
+D: Rotator cuff tear
+E: Adhesive shoulder capsulitis",shoulder/30.JPG,C,
+127,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Adhesive shoulder capsulitis
+B: Clavicle fracture
+C: Shoulder dislocation 
+D: Shoulder labral injury
+E: Rotator cuff tear",shoulder/31.JPG,D,
+128,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Rotator cuff tear
+B: Adhesive shoulder capsulitis
+C: Clavicle fracture 
+D: Shoulder dislocation
+E: Shoulder labral injury",shoulder/32.JPG,E,
+129,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Injury to the anterior talofibular ligament
+B: Deltoid ligament injury
+C: Talus osteochondral injury 
+D: Ankle tunnel syndrome
+E: Achilles tendon rupture",ankle/1.JPG,A,
+130,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Deltoid ligament injury
+B: Damage to the osteochondral of the talus
+C: Ankle tunnel syndrome 
+D: Achilles tendon rupture
+E: Injury to the anterior talofibular ligament",ankle/2.JPG,E,
+131,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Damage to the osteochondral of the talus
+B: Ankle tunnel syndrome
+C: Achilles tendon rupture 
+D: Injury to the anterior talofibular ligament
+E: Deltoid ligament injury",ankle/3.JPG,D,
+132,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Ankle tunnel syndrome
+B: Achilles tendon rupture
+C: Injury to the anterior talofibular ligament 
+D: Deltoid ligament injury
+E: Damage to the osteochondral of the talus",ankle/4.JPG,C,
+133,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Achilles tendon rupture
+B: Injury to the anterior talofibular ligament
+C: Deltoid ligament injury 
+D: Damage to the osteochondral of the talus
+E: Ankle tunnel syndrome",ankle/5.JPG,B,
+134,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Injury to the anterior talofibular ligament
+B: Deltoid ligament injury
+C: Talus osteochondral injury 
+D: Ankle tunnel syndrome
+E: Achilles tendon rupture",ankle/6.JPG,A,
+135,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Deltoid ligament injury
+B: Damage to the osteochondral of the talus
+C: Ankle tunnel syndrome 
+D: Achilles tendon rupture
+E: Injury to the anterior talofibular ligament",ankle/7.JPG,E,
+136,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Damage to the osteochondral of the talus
+B: Ankle tunnel syndrome
+C: Achilles tendon rupture 
+D: Injury to the anterior talofibular ligament
+E: Deltoid ligament injury",ankle/8.JPG,D,
+137,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Ankle tunnel syndrome
+B: Achilles tendon rupture
+C: Injury to the anterior talofibular ligament 
+D: Deltoid ligament injury
+E: Damage to the osteochondral of the talus",ankle/9.JPG,C,
+138,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Achilles tendon rupture
+B: Injury to the anterior talofibular ligament
+C: Deltoid ligament injury 
+D: Damage to the osteochondral of the talus
+E: Ankle tunnel syndrome",ankle/10.JPG,B,
+139,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Injury to the anterior talofibular ligament
+B: Outer malleolus fracture
+C: Talus osteochondral injury 
+D: Ankle tunnel syndrome
+E: Achilles tendon rupture",ankle/11.JPG,C,
+140,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Deltoid ligament injury
+B: Damage to the osteochondral of the talus
+C: Ankle tunnel syndrome 
+D: Achilles tendon rupture
+E: Injury to the anterior talofibular ligament",ankle/12.JPG,A,
+141,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Damage to the osteochondral of the talus
+B: Ankle tunnel syndrome
+C: Achilles tendon rupture 
+D: Injury to the anterior talofibular ligament
+E: Deltoid ligament injury",ankle/13.JPG,E,
+142,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Ankle tunnel syndrome
+B: Achilles tendon rupture
+C: Injury to the anterior talofibular ligament
+D: Ankle osteoarthritis
+E: Damage to the osteochondral of the talus",ankle/14.JPG,D,
+143,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Achilles tendon rupture
+B: Posterior malleolus fracture
+C: Injury to the deltoid ligament
+D: Damage to the osteochondral of the talus
+E: Ankle tunnel syndrome",ankle/15.JPG,C,
+144,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Injury to the anterior talofibular ligament
+B: Deltoid ligament injury
+C: Talus osteochondral injury 
+D: Ankle tunnel syndrome
+E: Achilles tendon rupture",ankle/16.JPG,C,
+145,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Deltoid ligament injury
+B: Damage to the osteochondral of the talus
+C: Ankle tunnel syndrome 
+D: Achilles tendon rupture
+E: Injury to the anterior talofibular ligament",ankle/17.JPG,B,
+146,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Damage to the osteochondral of the talus
+B: Ankle tunnel syndrome
+C: Achilles tendon rupture 
+D: Injury to the anterior talofibular ligament
+E: Deltoid ligament injury",ankle/18.JPG,A,
+147,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Ankle tunnel syndrome
+B: Achilles tendon rupture
+C: Injury to the anterior talofibular ligament 
+D: Deltoid ligament injury
+E: Damage to the osteochondral of the talus",ankle/19.JPG,E,
+148,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Achilles tendon rupture
+B: Injury to the anterior talofibular ligament
+C: Deltoid ligament injury 
+D: Damage to the osteochondral of the talus
+E: Ankle tunnel syndrome",ankle/20.JPG,D,
+149,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Injury to the anterior talofibular ligament
+B: Deltoid ligament injury
+C: Talus osteochondral injury 
+D: Ankle tunnel syndrome
+E: Achilles tendon rupture",ankle/21.JPG,E,
+150,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Deltoid ligament injury
+B: Damage to the osteochondral of the talus
+C: Ankle tunnel syndrome 
+D: Achilles tendon rupture
+E: Injury to the anterior talofibular ligament",ankle/22.JPG,D,
+151,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Damage to the osteochondral of the talus
+B: Ankle tunnel syndrome
+C: Achilles tendon rupture 
+D: Injury to the anterior talofibular ligament
+E: Deltoid ligament injury",ankle/23.JPG,C,
+152,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Ankle tunnel syndrome
+B: Achilles tendon rupture
+C: Injury to the anterior talofibular ligament 
+D: Deltoid ligament injury
+E: Damage to the osteochondral of the talus",ankle/24.JPG,B,
+153,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Achilles tendon rupture
+B: Injury to the anterior talofibular ligament
+C: Deltoid ligament injury 
+D: Damage to the osteochondral of the talus
+E: Ankle tunnel syndrome",ankle/25.JPG,A,
+154,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the femoral neck
+B: Tibia fracture
+C: Femoral shaft fracture 
+D: Metatarsal fracture
+E: Outer malleolus fracture",ankle/26.JPG,B,
+155,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Outer malleolus fracture
+B: Femoral neck fracture
+C: Tibifibula fracture 
+D: Femoral shaft fracture
+E: Metatarsal fracture",ankle/27.JPG,C,
+156,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Metatarsal fracture
+B: Outer malleolus fracture
+C: Femoral neck fracture 
+D: Tibifibula fracture
+E: Femoral shaft fracture",ankle/28.JPG,A,
+157,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Femoral shaft fracture 
+B: Metatarsal fracture
+C: Outer malleolus fracture 
+D: Femoral neck fracture
+E: Fracture of the tibia and fibula",ankle/29.JPG,B,
+158,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Fracture of the tibia and fibula
+B: Femoral shaft fracture 
+C: Metatarsal fracture
+D: Lateral malleolus fracture
+E: Femoral neck fracture",ankle/30.JPG,D,
+159,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Elbow dislocation
+B: Lateral epicondylitis of the humerus
+C: Radial microcephaly subluxation 
+D: Cubbital tunnel syndrome
+E: Elbow fracture",elbow/1.JPG,B,
+160,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Elbow fracture
+B: Elbow dislocation
+C: Lateral epicondylitis of the humerus 
+D: Radial microcephalic subluxation
+E: Cubbital tunnel syndrome",elbow/2.JPG,C,
+161,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Cubbital tunnel syndrome
+B: Elbow fracture
+C: Elbow dislocation 
+D: Lateral epicondylitis of the humerus
+E: Radial microcephalic subluxation",elbow/3.JPG,D,
+162,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Radius microcephaly subluxation
+B: Cubbital tunnel syndrome
+C: Elbow fracture 
+D: Elbow dislocation
+E: Lateral epicondylitis of the humerus",elbow/4.JPG,E,
+163,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral epicondylitis of the humerus
+B: Radial microcephaly subluxation
+C: cubital tunnel syndrome 
+D: Elbow fracture
+E: Elbow dislocation",elbow/5.JPG,A,
+164,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Elbow dislocation
+B: Lateral epicondylitis of the humerus
+C: Radial microcephaly subluxation 
+D: Cubbital tunnel syndrome
+E: Elbow fracture",elbow/6.JPG,B,
+165,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Elbow fracture
+B: Elbow dislocation
+C: Lateral epicondylitis of the humerus 
+D: Radial microcephalic subluxation
+E: Cubbital tunnel syndrome",elbow/7.JPG,C,
+166,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Cubbital tunnel syndrome
+B: Elbow fracture
+C: Elbow dislocation 
+D: Lateral epicondylitis of the humerus
+E: Radial microcephalic subluxation",elbow/8.JPG,D,
+167,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Radius microcephaly subluxation
+B: Cubbital tunnel syndrome
+C: Elbow fracture 
+D: Elbow dislocation
+E: Lateral epicondylitis of the humerus",elbow/9.JPG,E,
+168,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lateral epicondylitis of the humerus
+B: Radial microcephaly subluxation
+C: cubital tunnel syndrome 
+D: Elbow fracture
+E: Elbow dislocation",elbow/10.JPG,A,
+169,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Elbow dislocation
+B: Lateral epicondylitis of the humerus
+C: Radial microcephaly subluxation 
+D: Cubbital tunnel syndrome
+E: After elbow fracture surgery",elbow/11.PNG,E,
+170,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Elbow fracture
+B: Elbow dislocation
+C: Lateral epicondylitis of the humerus 
+D: Radial microcephalic subluxation
+E: Rheumatoid arthritis",elbow/12.JPG,E,
+171,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Cubbital tunnel syndrome
+B: Elbow fracture
+C: Elbow dislocation 
+D: Lateral epicondylitis of the humerus
+E: Radial microcephalic subluxation",elbow/13.PNG,C,
+172,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Radius microcephaly subluxation
+B: Cubbital tunnel syndrome
+C: Elbow fracture 
+D: Elbow dislocation
+E: Elbow osteoarthritis",elbow/14.PNG,E,
+173,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Elbow osteoarthritis
+B: Radial microcephaly subluxation
+C: cubital tunnel syndrome 
+D: Elbow fracture
+E: Elbow dislocation",elbow/15.JPG,A,
+174,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Cubbital tunnel syndrome
+B: Elbow fracture
+C: Elbow dislocation 
+D: Lateral epicondylitis of the humerus
+E: Radial microcephalic subluxation",elbow/16.JPG,E,
+175,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Radius microcephaly subluxation
+B: Cubbital tunnel syndrome
+C: Elbow fracture 
+D: Elbow dislocation
+E: Elbow osteoarthritis",elbow/17.JPG,A,
+176,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Elbow osteoarthritis
+B: Radial microcephaly subluxation
+C: cubital tunnel syndrome 
+D: Elbow fracture
+E: Elbow dislocation",elbow/18.JPG,B,
+177,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Coronal process fracture
+B: Humerus shaft fracture
+C: Fracture of the olecranon of the ulna 
+D: Fracture of the humerus microcephalic
+E: Radial shaft fracture",elbow/19.JPG,A,
+178,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Radial shaft fracture
+B: Coronal process fracture
+C: Humeral shaft fracture 
+D: Ulnar olecranon fracture
+E: Microcephalicis trochlear fracture of the humerus",elbow/20.JPG,D,
+179,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Humerus microcephalicis trochlear fracture
+B: Radial shaft fracture
+C: Coronal process fracture 
+D: Humeral shaft fracture
+E: Fracture of the olecranon of the ulna",elbow/21.JPG,E,
+180,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Ulnar olecranon fracture
+B: Fracture of the microcephalicis of the humerus
+C: Radial shaft fracture 
+D: Coronal process fracture
+E: Humerus shaft fracture",elbow/22.JPG,B,
+181,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Brumenial shaft fracture
+B: Fracture of the olecranon of the ulna
+C: Fracture of the humerus microcephalic 
+D: Radial shaft fracture
+E: coronal process fracture",elbow/23.JPG,C,
+182,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Triangular fibrocartilage complex injury
+B: Distal radius fracture
+C: Stenotic tenosynovitis 
+D: Metacarpal fracture
+E: Carpal tunnel syndrome",wrist/1.JPG,A,
+183,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Carpal tunnel syndrome
+B: Triangular fibrocartilage complex injury
+C: Distal radius fracture 
+D: Stenotic tenosynovitis
+E: Metacarpal fracture",wrist/2.JPG,B,
+184,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Metacarpal fracture
+B: Carpal tunnel syndrome
+C: Triangular fibrocartilage complex injury 
+D: Distal radius fracture
+E: Stenotic tenosynovitis",wrist/3.JPG,D,
+185,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Stenotic tenosynovitis
+B: Metacarpal fracture
+C: Carpal tunnel syndrome 
+D: Triangular fibrocartilage complex injury
+E: Distal radius fracture",wrist/4.JPG,E,
+186,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Distal radius fracture
+B: Stenotic tenosynovitis
+C: Metacarpal fracture 
+D: Carpal tunnel syndrome
+E: Triangular fibrocartilage complex injury",wrist/5.JPG,C,
+187,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Triangular fibrocartilage complex injury
+B: Distal radius fracture
+C: Stenotic tenosynovitis 
+D: Metacarpal fracture
+E: Carpal tunnel syndrome",wrist/6.JPG,E,
+188,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Carpal tunnel syndrome
+B: Triangular fibrocartilage complex injury
+C: Distal radius fracture 
+D: Stenotic tenosynovitis
+E: Metacarpal fracture",wrist/7.JPG,A,
+189,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Metacarpal fracture
+B: Carpal tunnel syndrome
+C: Triangular fibrocartilage complex injury 
+D: Distal radius fracture
+E: Tendon sheath cyst",wrist/8.JPG,E,
+190,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Stenotic tenosynovitis
+B: Metacarpal fracture
+C: Carpal tunnel syndrome 
+D: Triangular fibrocartilage complex injury
+E: Distal radius fracture",wrist/9.JPG,A,
+191,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Distal radius fracture
+B: Stenotic tenosynovitis
+C: Metacarpal fracture 
+D: Carpal tunnel syndrome
+E: Triangular fibrocartilage complex injury",wrist/10.JPG,B,
+192,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Cervical spondylosis
+B: Thoracic spinal stenosis
+C: Lumbar disc herniation 
+D: Scoliosis
+E: Lumbar muscle strain",spine/1.JPG,A,
+193,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Psoas muscle strain
+B: Cervical spondylosis
+C: Thoracic spinal stenosis 
+D: Lumbar disc herniation
+E: Scoliosis",spine/2.JPG,B,
+194,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Scoliosis
+B: Lumbar muscle strain
+C: Atlantoaxial dislocation
+D: Thoracic spinal stenosis
+E: Lumbar disc herniation",spine/3.JPG,C,
+195,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lumbar disc herniation
+B: Scoliosis
+C: Lumbar muscle strain 
+D: Cervical spondylosis
+E: thoracic spinal stenosis",spine/4.JPG,D,
+196,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Thoracic spinal stenosis
+B: Lumbar disc herniation
+C: Scoliosis 
+D: Lumbar muscle strain
+E: Cervical spondylosis",spine/5.JPG,C,
+197,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Cervical spinal cord injury without fracture dislocation
+B: Thoracic spinal stenosis
+C: Lumbar disc herniation 
+D: Scoliosis
+E: Lumbar muscle strain",spine/6.JPG,A,
+198,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Psoas muscle strain
+B: Cervical spondylosis
+C: Thoracic spinal stenosis 
+D: Lumbar disc herniation
+E: Scoliosis",spine/7.JPG,C,
+199,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Cervical spondylosis
+B: Thoracic spinal stenosis
+C: Lumbar disc herniation 
+D: Scoliosis
+E: Lumbar muscle strain",spine/8.JPG,C,
+200,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Psoas muscle strain
+B: Cervical spondylosis
+C: Thoracic spinal stenosis 
+D: Lumbar disc herniation
+E: Scoliosis",spine/9.JPG,D,
+201,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Scoliosis
+B: Lumbar muscle strain
+C: Cervical spondylosis 
+D: Thoracic spinal stenosis
+E: Lumbar disc herniation",spine/10.JPG,E,
+202,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Lumbar disc herniation
+B: Scoliosis
+C: Lumbar muscle strain 
+D: Cervical spondylosis
+E: thoracic spinal stenosis",spine/11.JPG,A,
+203,"Please answer the multiple-choice questions based on the patient's imaging examination pictures. Requirement: Output only the option, and not the explanatory text:
+Based on the imaging findings, the most likely imaging diagnosis for this patient is:
+A: Thoracic spinal stenosis
+B: Lumbar disc herniation
+C: Scoliosis 
+D: Lumbar muscle strain
+E: Cervical spondylosis",spine/12.JPG,C,
