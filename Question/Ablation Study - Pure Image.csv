@@ -1,0 +1,464 @@
+number,question,image_path,answer1,answer2
+1,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/1.PNG,Knee joint,Lateral meniscus injury in the right knee
+2,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/2.PNG,Knee joint,"Injury to the medial meniscus of the left knee
+Cartilage injury of the patellofemoral joint of the left knee"
+3,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/3.PNG,Knee joint,Lateral meniscus injury to the left knee
+4,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/4.PNG,Knee joint,Medial meniscus injury to the right knee
+5,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/5.PNG,Knee joint,Lateral meniscus injury to the left knee
+6,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/6.PNG,Knee joint,"Lateral meniscus injury to the left knee
+Osteoarthropathy of the left knee"
+7,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/7.PNG,Knee joint,"Lateral meniscus injury in the right knee
+Osteoarthropathy of the right knee
+Popliteal fossa cyst in the right knee"
+8,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/8.PNG,Knee joint,Lateral meniscus injury in the right knee
+9,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/9.PNG,Knee joint,Medial meniscus injury to the right knee
+10,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/10.PNG,Knee joint,Injury to the medial meniscus of the left knee
+11,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/11.PNG,Knee joint,Injury to the medial meniscus of the left knee
+12,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/12.PNG,Knee joint,Lateral meniscus injury in the right knee
+13,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/13.PNG,Knee joint,Lateral meniscus injury to the left knee
+14,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/14.PNG,Knee joint,Injury to the lateral discoid meniscus of the right knee
+15,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/15.PNG,Knee joint,Lateral discoid meniscus injury to the left knee
+16,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/16.PNG,Knee joint,"Anterior cruciate ligament injury in the left knee
+Injury to the medial meniscus of the left knee"
+17,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/17.PNG,Knee joint,Re-injury after anterior cruciate ligament reconstruction of the right knee
+18,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/18.PNG,Knee joint,"Anterior cruciate ligament injury in the right knee
+Lateral meniscus injury in the right knee
+Medial meniscus injury to the right knee"
+19,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/19.PNG,Knee joint,Anterior cruciate ligament injury in the right knee
+20,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/20.PNG,Knee joint,"Anterior cruciate ligament injury in the left knee
+Posterior cruciate ligament injury in the left knee"
+21,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/21.PNG,Knee joint,Anterior cruciate ligament injury in the left knee
+22,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/22.PNG,Knee joint,Re-injury after anterior cruciate ligament reconstruction of the left knee
+23,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/23.PNG,Knee joint,Posterior cruciate ligament injury in the left knee
+24,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/24.PNG,Knee joint,Posterior cruciate ligament injury in the right knee
+25,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/25.PNG,Knee joint,Anterior cruciate ligament injury in the right knee
+26,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/26.PNG,Knee joint,Posterior cruciate ligament injury in the left knee
+27,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/27.PNG,Knee joint,Anterior cruciate ligament injury in the left knee
+28,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/28.PNG,Knee joint,"Posterior cruciate ligament injury in the right knee
+Medial meniscus injury to the right knee"
+29,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/29.PNG,Knee joint,"Posterior cruciate ligament injury in the right knee
+Anterior cruciate ligament injury in the right knee"
+30,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/30.PNG,Knee joint,"Anterior cruciate ligament injury in the left knee
+Posterior cruciate ligament injury in the left knee"
+31,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/31.JPG,Knee joint,Right knee patellar dislocation
+32,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/32.JPG,Knee joint,"Left knee patellar dislocation
+Rupture of the medial collateral ligament of the left knee"
+33,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/33.JPG,Knee joint,"Left knee patellar dislocation
+Avulsion fracture of the left patella"
+34,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/34.JPG,Knee joint,Recurrent patellar luxation of the left knee
+35,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/35.JPG,Knee joint,Recurrent patellar luxation of the left knee
+36,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/36.PNG,Knee joint,"Stiffness in the left knee joint
+After left knee dislocation incision reduction and fixation
+After open reduction and fixation of left tibial plateau fracture"
+37,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/37.JPG,Knee joint,Fracture of the right patella
+38,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/38.JPG,Knee joint,"Fracture of the distal right tibia
+Fracture of the right fibula"
+39,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/39.PNG,Knee joint,Anterior cruciate ligament injury in the right knee
+40,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/40.PNG,Knee joint,Anterior cruciate ligament injury in the right knee
+41,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/41.PNG,Knee joint,"Osteoarthritis of the left knee
+Osteoarthritis of the right knee"
+42,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/42.PNG,Knee joint,"Osteoarthritis of the left knee
+Osteoarthritis of the right knee"
+43,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/43.PNG,Knee joint,"Osteoarthritis of the left knee
+Osteoarthritis of the right knee"
+44,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/44.PNG,Knee joint,"Osteoarthritis of the left knee
+Osteoarthritis of the right knee"
+45,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/45.PNG,Knee joint,"Osteoarthritis of the left knee
+Osteoarthritis of the right knee"
+46,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/46.PNG,Knee joint,Rupture of the anterior cruciate ligament in the right knee
+47,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/47.PNG,Knee joint,"Lateral meniscus injury in the right knee
+Osteoarthritis of the right knee"
+48,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/48.PNG,Knee joint,Ruptured posterior cruciate ligament in the left knee
+49,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/49.PNG,Knee joint,Rupture of the anterior cruciate ligament in the left knee
+50,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/50.PNG,Knee joint,Lateral discoid meniscus injury to the left knee
+51,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/51.BMP,Knee joint,Lateral meniscus injury to the left knee
+52,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/52.PNG,Knee joint,Anterior cruciate ligament injury in the right knee
+53,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/53.PNG,Knee joint,"Posterior cruciate ligament injury in the right knee
+Osteoarthritis of the right knee"
+54,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/54.PNG,Knee joint,Anterior cruciate ligament injury in the left knee
+55,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/55.PNG,Knee joint,Injury to the medial meniscus of the left knee
+56,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/56.PNG,Knee joint,Anterior cruciate ligament injury in the left knee
+57,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/1.JPG,Hip joint,Right hip labral injury
+58,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/2.JPG,Hip joint,Left hip labral injury
+59,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/3.JPG,Hip joint,Right hip labral injury
+60,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/4.JPG,Hip joint,Left hip labral injury
+61,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/5.JPG,Hip joint,Left hip labral injury
+62,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/6.JPG,Hip joint,Left hip labral injury
+63,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/7.JPG,Hip joint,Left hip labral injury
+64,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/8.JPG,Hip joint,Left hip labral injury
+65,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/9.JPG,Hip joint,Left hip labral injury
+66,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/10.JPG,Hip joint,Left hip labral injury
+67,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/11.JPG,Hip joint,Left hip labral injury
+68,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/12.JPG,Hip joint,Right hip labral injury
+69,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/13.JPG,Hip joint,Left hip labral injury
+70,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/14.JPG,Hip joint,Right hip labral injury
+71,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/15.JPG,Hip joint,Left hip labral injury
+72,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/16.JPG,Hip joint,Left hip labral injury
+73,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/17.PNG,Hip joint,Left idiopathic femoral head necrosis
+74,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/18.PNG,Hip joint,Left alcoholic femoral head necrosis
+75,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/19.PNG,Hip joint,Left idiopathic femoral head necrosis
+76,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/20.PNG,Hip joint,Right alcoholic femoral head necrosis
+77,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/21.PNG,Hip joint,"Right drug-induced femoral head necrosis
+Systemic lupus erythematosus"
+78,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/22.PNG,Hip joint,Left traumatic femoral head necrosis
+79,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/23.PNG,Hip joint,Bilateral developmental hip dysplasia
+80,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/24.PNG,Hip joint,"Right developmental hip dysplasia
+After right perihip osteotomy"
+81,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/25.PNG,Hip joint,Left developmental hip dysplasia
+82,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/26.PNG,Hip joint,Left developmental hip dysplasia
+83,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/27.PNG,Hip joint,Left developmental hip dysplasia
+84,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/28.PNG,Hip joint,Osteoarthritis of the right hip
+85,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/29.PNG,Hip joint,"Bilateral idiopathic femoral head necrosis
+Bilateral developmental hip dysplasia
+Secondary osteoarthritis of both hips"
+86,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/30.PNG,Hip joint,"Bilateral developmental hip dysplasia
+Secondary osteoarthritis of both hips"
+87,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/31.PNG,Hip joint,"Left traumatic femoral head necrosis
+Secondary osteoarthritis of the left hip"
+88,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/32.PNG,Hip joint,"Left developmental hip dysplasia
+Secondary osteoarthritis of the left hip"
+89,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/33.JPG,Hip joint,Fracture of the left femoral neck
+90,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/34.JPG,Hip joint,Fracture of the left femoral neck
+91,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/35.JPG,Hip joint,"Fracture around the proximal prosthesis of the left fredeem
+After left hip arthroplasty"
+92,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/36.JPG,Hip joint,Intertrochanteric fracture of the left femur
+93,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/37.JPG,Hip joint,Intertrochanteric fracture of the left femur
+94,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/38.JPG,Hip joint,Intertrochanteric fracture of the left femur
+95,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/39.JPG,Hip joint,Fracture of the right femoral shaft
+96,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/40.JPG,Hip joint,"Stiffness in the right hip joint
+Ankylosing spondylitis"
+97,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/1.PNG,Shoulder joint,Left rotator cuff tear
+98,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/2.PNG,Shoulder joint,Left rotator cuff tear
+99,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/3.PNG,Shoulder joint,Left rotator cuff tear
+100,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/4.PNG,Shoulder joint,Right rotator cuff tear
+101,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/5.PNG,Shoulder joint,Right rotator cuff tear
+102,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/6.PNG,Shoulder joint,Left rotator cuff tear
+103,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/7.PNG,Shoulder joint,Left rotator cuff tear
+104,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/8.JPG,Shoulder joint,Right rotator cuff tear
+105,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/9.JPG,Shoulder joint,"Right rotator cuff tear
+Calcific tendonitis"
+106,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/10.JPG,Shoulder joint,Right rotator cuff tear
+107,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/11.PNG,Shoulder joint,Right rotator cuff tear
+108,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/12.PNG,Shoulder joint,Left rotator cuff tear
+109,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/13.PNG,Shoulder joint,Recurrent dislocation of the left shoulder
+110,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/14.PNG,Shoulder joint,Recurrent dislocation of the right shoulder joint
+111,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/15.JPG,Shoulder joint,Recurrent dislocation of the right shoulder joint
+112,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/16.JPG,Shoulder joint,Recurrent dislocation of the right shoulder joint
+113,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/17.JPG,Shoulder joint,Recurrent dislocation of the right shoulder joint
+114,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/18.JPG,Shoulder joint,Recurrent dislocation of the left shoulder
+115,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/19.JPG,Shoulder joint,Recurrent dislocation of the left shoulder
+116,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/20.JPG,Shoulder joint,Recurrent dislocation of the left shoulder
+117,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/21.JPG,Shoulder joint,Recurrent dislocation of the right shoulder joint
+118,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/22.JPG,Shoulder joint,Dislocation of the right shoulder joint
+119,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/23.JPG,Shoulder joint,Left adhesive shoulder capsulitis
+120,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/24.JPG,Shoulder joint,Left adhesive shoulder capsulitis
+121,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/25.JPG,Shoulder joint,Left adhesive shoulder capsulitis
+122,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/26.JPG,Shoulder joint,Right adhesive shoulder capsulitis
+123,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/27.JPG,Shoulder joint,"Left rotator cuff tear
+Left adhesive shoulder capsulitis"
+124,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/28.PNG,Shoulder joint,Right shoulder labral injury
+125,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/29.JPG,Shoulder joint,Right shoulder labral injury
+126,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/30.JPG,Shoulder joint,Right shoulder labral injury
+127,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/31.JPG,Shoulder joint,Injury to the left shoulder labrum and paralabial cyst
+128,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/32.JPG,Shoulder joint,Injury to the left shoulder labrum and paralabial cyst
+129,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/1.JPG,Ankle joint,Injury to the anterior talofibular ligament of the right ankle
+130,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/2.JPG,Ankle joint,Injury to the anterior talofibular ligament of the right ankle
+131,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/3.JPG,Ankle joint,Injury to the anterior talofibular ligament of the right ankle
+132,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/4.JPG,Ankle joint,Injury to the anterior talofibular ligament of the left ankle
+133,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/5.JPG,Ankle joint,Injury to the anterior talofibular ligament of the left ankle
+134,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/6.JPG,Ankle joint,Injury to the anterior talofibular ligament of the right ankle
+135,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/7.JPG,Ankle joint,Injury to the anterior talofibular ligament of the right ankle
+136,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/8.JPG,Ankle joint,Injury to the anterior talofibular ligament of the left ankle
+137,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/9.JPG,Ankle joint,Injury to the anterior talofibular ligament of the left ankle
+138,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/10.JPG,Ankle joint,Injury to the anterior talofibular ligament of the right ankle
+139,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/11.JPG,Ankle joint,"Osteochondral injury to the talus of the left ankle
+Left ankle deltoid ligament injury"
+140,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/12.JPG,Ankle joint,Left ankle deltoid ligament injury
+141,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/13.JPG,Ankle joint,Left ankle deltoid ligament injury
+142,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/14.JPG,Ankle joint,Traumatic arthritis of the right ankle
+143,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/15.JPG,Ankle joint,"Right ankle deltoid ligament injury
+Injury to the anterior talofibular ligament of the right ankle"
+144,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/16.JPG,Ankle joint,Injury to the medial cartilage of the talus in the right ankle
+145,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/17.JPG,Ankle joint,Injury to the medial cartilage of the talus of the left ankle
+146,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/18.JPG,Ankle joint,Injury to the medial cartilage of the talus of the left ankle
+147,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/19.JPG,Ankle joint,Injury to the medial cartilage of the talus of the left ankle
+148,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/20.JPG,Ankle joint,Injury to the medial cartilage of the talus of the left ankle
+149,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/21.JPG,Ankle joint,Rupture of the left Achilles tendon
+150,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/22.JPG,Ankle joint,Rupture of the left Achilles tendon
+151,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/23.JPG,Ankle joint,Rupture of the left Achilles tendon
+152,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/24.JPG,Ankle joint,Rupture of the left Achilles tendon
+153,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/25.JPG,Ankle joint,Rupture of the left Achilles tendon
+154,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/26.JPG,Ankle joint,Fracture of the right tibia and fibula
+155,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/27.JPG,Ankle joint,"Fracture of the right tibia and fibula
+Right ankle deltoid ligament injury"
+156,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/28.JPG,Ankle joint,"Injury to the right metatarsalar joint
+Right metatarsal basal fracture"
+157,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/29.JPG,Ankle joint,Left metatarsal basal fracture
+158,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/30.JPG,Ankle joint,Fracture of the right lateral malleolus
+159,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/1.JPG,Elbow joint,Lateral epicondylitis of the right humerus
+160,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/2.JPG,Elbow joint,Lateral epicondylitis of the left humerus
+161,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/3.JPG,Elbow joint,Lateral epicondylitis of the left humerus
+162,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/4.JPG,Elbow joint,Lateral epicondylitis of the right humerus
+163,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/5.JPG,Elbow joint,Lateral epicondylitis of the right humerus
+164,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/6.JPG,Elbow joint,Lateral epicondylitis of the right humerus
+165,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/7.JPG,Elbow joint,Lateral epicondylitis of the left humerus
+166,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/8.JPG,Elbow joint,Lateral epicondylitis of the right humerus
+167,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/9.JPG,Elbow joint,Lateral epicondylitis of the left humerus
+168,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/10.JPG,Elbow joint,Lateral epicondylitis of the left humerus
+169,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/11.PNG,Elbow joint,"Stiffness in the left elbow joint
+Ectopic ossification of the left elbow joint
+After left ulnar olecranon fracture"
+170,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/12.JPG,Elbow joint,"Rheumatoid arthritis
+Stiffness in the left elbow joint"
+171,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/13.PNG,Elbow joint,"Posterior dislocation of the right elbow
+Injury to the medial collateral ligament of the right elbow
+Injury to the common tendon of the medial flexor muscle of the right elbow"
+172,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/14.PNG,Elbow joint,Osteoarthritis of the right elbow
+173,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/15.JPG,Elbow joint,Osteoarthritis of the right elbow
+174,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/16.JPG,Elbow joint,Subluxation of the small head of the right radius
+175,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/17.JPG,Elbow joint,Left radius microcephalic subluxation
+176,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/18.JPG,Elbow joint,Subluxation of the small head of the right radius
+177,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/19.JPG,Elbow joint,Left elbow coronary process fracture combined with radial head fracture
+178,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/20.JPG,Elbow joint,Fracture of the olecranon of the ulna of the left elbow joint
+179,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/21.JPG,Elbow joint,Fracture of the olecranon of the ulna of the left elbow joint
+180,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/22.JPG,Elbow joint,Fracture of the humerus microcephalic trochlea of the right elbow joint
+181,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/23.JPG,Elbow joint,Fracture of the humerus microcephalic trochlea of the right elbow joint
+182,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/1.JPG,Wrist joint,Right wrist triangular fibrocartilage complex injury
+183,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/2.JPG,Wrist joint,Left triangular fibrocartilage complex injury
+184,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/3.JPG,Wrist joint,Fracture of the distal left radius
+185,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/4.JPG,Wrist joint,Fracture of the distal left radius
+186,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/5.JPG,Wrist joint,Fracture of the distal 5th metacarpal bone of the right hand
+187,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/6.JPG,Wrist joint,Right carpal tunnel syndrome
+188,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/7.JPG,Wrist joint,Right carpal tunnel syndrome
+189,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/8.JPG,Wrist joint,Dorsal tendon sheath cyst on the right wrist
+190,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/9.JPG,Wrist joint,Left radial styloid stenotic tenosynovitis
+191,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/10.JPG,Wrist joint,Left radial styloid stenotic tenosynovitis
+192,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/1.JPG,spine,"Cervical myelopathy
+Cervical spinal stenosis (C5-6, degeneration)
+Cervical disc prolapse C5-6"
+193,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/2.JPG,spine,"Cervical myelopathy
+Cervical disc prolapse C6-7
+Spinal cord edema C5-6"
+194,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/3.JPG,spine,"atlantoaxial dislocation (instability), Sanmingye malformation, high cervical myelopathy, low cranial neuropathy, Klippel-Feil syndrome
+Cervical spinal stenosis (C4-5)
+Cervical disc herniation (C4-5)"
+195,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/4.JPG,spine,"Cervical myelopathy
+Cervical disc herniation (C5-6)
+Cervical spinal stenosis (degeneration)"
+196,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/5.JPG,spine,"Muscular torticollis
+Scoliosis (cervical, thoracic, lumbar)"
+197,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/6.JPG,spine,"No fracture dislocation of cervical spinal cord injury
+Ossification of the posterior longitudinal ligament of the cervical spine"
+198,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/7.JPG,spine,"Thoracic spinal stenosis (T1-40PLL, T10-120FLL)"
+199,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/8.JPG,spine,"Lumbar disc herniation (L4/5)
+Lumbar spinal stenosis (L4/5)"
+200,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/9.JPG,spine,"Lumbar disc herniation (L4-5)
+Lumbar spinal stenosis"
+201,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/10.JPG,spine,"Lumbar spinal stenosis
+Acquired spondylolisthesis
+Lumbar disc herniation"
+202,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/11.JPG,spine,"Lumbar disc herniation (L5/S1, extremely lateral)"
+203,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/12.JPG,spine,Idiopathic scoliosis
