@@ -1,0 +1,407 @@
+Number,question,image_path,MiniCPM-V-2.6,Llama-3.2-Vision,GLM-4v-9B,Qwen2-VL,GPT_4o,Gemini-3.1-Pro,Qwen3.5-35b-a3b,GPT-5.2
+1,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/1.png,0,0,0,0,0,0,0,1
+2,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/2.png,0,0,1,0,0,0,0,1
+3,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/3.png,0,0,0,0,0,0,0,0
+4,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/4.png,0,0,0,0,0,0,0,1
+5,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/5.png,0,0,0,0,0,0,1,1
+6,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/6.png,0,0,0,0,0,0,1,0
+7,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/7.png,0,0,0,0,0,0,0,0
+8,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/8.png,0,0,0,0,0,0,0,0
+9,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/9.png,0,1,0,0,0,1,1,1
+10,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/10.png,0,0,0,0,0,0,1,1
+11,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/11.png,0,0,0,0,0,0,0,1
+12,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/12.png,0,0,0,0,0,1,0,0
+13,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/13.png,0,0,0,0,0,1,0,0
+14,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/14.png,0,0,0,0,0,0,1,0
+15,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/15.png,0,0,0,0,0,0,0,0
+16,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/16.png,0,0,0,0,0,0,0,0
+17,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/17.png,0,0,0,0,0,0,1,0
+18,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/18.png,0,0,0,0,0,0,0,0
+19,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/19.png,0,0,0,0,0,1,1,1
+20,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/20.png,0,0,1,0,0,0,0,0
+21,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/21.png,0,0,0,0,1,1,1,1
+22,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/22.png,1,0,0,0,0,0,0,0
+23,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/23.png,0,0,0,0,0,0,0,0
+24,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/24.png,0,0,0,0,0,0,0,0
+25,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/25.png,0,0,0,0,0,0,1,1
+26,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/26.png,0,0,0,0,0,0,0,0
+27,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/27.png,0,0,0,0,0,1,1,1
+28,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/28.png,0,0,0,0,0,0,0,0
+29,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/29.png,0,0,0,0,0,0,0,1
+30,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/30.png,0,0,1,0,0,0,0,0
+31,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/31.jpg,0,0,0,0,0,1,0,0
+32,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/32.jpg,0,0,0,0,0,1,0,0
+33,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/33.jpg,0,0,0,0,0,1,1,0
+34,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/34.jpg,0,0,0,0,0,1,1,0
+35,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/35.jpg,0,0,0,0,0,1,0,0
+36,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/36.png,0,0,0,0,0,0,0,0
+37,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/37.jpg,0,0,0,0,1,1,1,1
+38,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/38.jpg,0,0,0,0,1,1,0,1
+39,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/39.png,0,0,0,0,0,1,1,1
+40,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/40.png,1,0,0,0,0,1,1,1
+41,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/41.png,0,0,0,0,0,1,0,1
+42,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/42.png,0,0,0,0,0,1,0,1
+43,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/43.png,0,0,0,0,0,0,0,1
+44,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/44.png,0,0,0,0,0,1,0,1
+45,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/45.png,0,0,0,0,1,0,0,0
+46,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/46.png,0,0,0,0,0,1,1,0
+47,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/47.png,0,0,0,0,0,0,1,0
+48,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/48.png,0,0,0,0,0,0,0,0
+49,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/49.png,1,0,0,0,1,1,1,1
+50,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/50.png,0,1,0,0,0,0,0,0
+51,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/51.bmp,0,0,0,0,0,0,0,1
+52,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/52.png,0,0,0,0,0,1,1,1
+53,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/53.png,0,0,0,0,0,1,0,0
+54,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/54.png,0,0,1,0,0,1,1,1
+55,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/55.png,0,0,0,0,0,0,0,1
+56,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",knee/56.png,0,0,0,0,0,1,1,1
+57,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/1.jpg,0,0,0,0,0,0,1,0
+58,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/2.jpg,0,0,0,0,0,0,1,1
+59,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/3.jpg,0,0,0,0,0,0,1,1
+60,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/4.jpg,0,0,0,0,0,1,1,1
+61,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/5.jpg,0,0,0,0,0,0,1,1
+62,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/6.jpg,0,0,0,0,0,0,0,1
+63,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/7.jpg,0,0,0,0,0,0,1,1
+64,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/8.jpg,0,0,0,0,0,0,0,0
+65,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/9.jpg,0,0,0,0,0,0,1,1
+66,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/10.jpg,0,0,0,0,0,1,1,1
+67,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/11.jpg,0,0,0,0,0,0,0,0
+68,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/12.jpg,0,0,0,0,0,1,0,1
+69,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/13.jpg,0,0,0,0,0,0,0,0
+70,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/14.jpg,0,0,0,0,0,1,1,0
+71,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/15.jpg,0,0,0,0,0,0,1,0
+72,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/16.jpg,0,0,0,0,0,1,0,0
+73,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/17.png,0,0,0,0,0,1,0,0
+74,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/18.png,0,0,0,0,0,0,0,0
+75,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/19.png,0,0,0,0,0,0,0,0
+76,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/20.png,0,0,0,0,0,0,0,1
+77,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/21.png,0,0,1,0,0,0,0,0
+78,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/22.png,0,0,0,0,0,0,0,0
+79,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/23.png,0,0,0,0,0,0,0,1
+80,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/24.png,0,0,0,0,0,0,0,0
+81,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/25.png,0,0,0,0,0,0,0,0
+82,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/26.png,0,0,0,0,0,0,0,0
+83,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/27.png,0,0,0,0,0,0,0,0
+84,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/28.png,0,0,0,0,0,0,0,0
+85,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/29.png,0,0,0,0,0,0,0,1
+86,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/30.png,0,0,0,0,0,0,0,1
+87,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/31.png,0,0,1,0,0,0,1,0
+88,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/32.png,0,0,0,0,0,0,1,0
+89,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/33.jpg,0,0,0,0,0,0,0,1
+90,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/34.jpg,0,0,0,0,0,0,0,1
+91,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/35.jpg,0,0,0,0,0,1,0,0
+92,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/36.jpg,0,0,0,0,0,0,0,1
+93,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/37.jpg,0,0,0,0,0,1,0,1
+94,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/38.jpg,0,0,0,0,0,0,0,0
+95,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/39.jpg,0,1,0,0,1,1,0,1
+96,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",hip/40.jpg,0,0,0,0,0,0,0,0
+97,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/1.png,0,0,0,0,1,1,1,1
+98,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/2.png,0,0,1,0,0,1,1,1
+99,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/3.png,0,0,1,0,0,1,1,1
+100,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/4.png,0,0,1,0,0,1,0,1
+101,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/5.png,1,0,0,0,0,1,1,1
+102,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/6.png,1,0,0,0,0,0,1,1
+103,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/7.png,0,0,0,0,0,1,0,1
+104,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/8.jpg,0,0,0,0,0,0,1,1
+105,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/9.jpg,0,0,1,0,0,0,0,1
+106,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/10.jpg,0,0,0,0,0,0,0,1
+107,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/11.png,0,0,0,0,0,1,1,1
+108,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/12.png,0,0,0,0,0,1,0,1
+109,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/13.png,0,0,0,0,0,1,0,0
+110,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/14.png,0,0,0,0,0,0,0,0
+111,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/15.jpg,0,0,0,0,0,0,0,0
+112,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/16.jpg,0,0,0,0,0,0,0,0
+113,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/17.jpg,0,0,0,0,0,0,0,0
+114,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/18.jpg,0,0,0,0,0,0,0,0
+115,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/19.jpg,0,1,0,0,0,0,0,0
+116,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/20.jpg,0,0,0,0,0,0,0,0
+117,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/21.jpg,0,0,0,0,0,0,0,0
+118,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/22.jpg,0,0,0,0,0,0,0,0
+119,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/23.jpg,0,0,0,0,0,0,1,1
+120,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/24.jpg,0,0,0,0,0,0,0,1
+121,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/25.jpg,0,0,0,0,0,0,0,0
+122,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/26.jpg,0,0,0,0,0,1,0,1
+123,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/27.jpg,0,0,0,0,0,1,1,1
+124,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/28.png,0,0,0,0,0,1,1,1
+125,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/29.jpg,0,0,0,0,0,1,1,1
+126,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/30.jpg,0,0,0,0,0,1,1,1
+127,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/31.jpg,0,0,0,0,0,1,0,1
+128,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",shoulder/32.jpg,0,0,0,0,0,0,0,1
+129,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/1.jpg,0,0,0,0,0,0,0,0
+130,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/2.jpg,0,0,0,0,0,1,0,0
+131,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/3.jpg,0,0,0,0,0,1,0,0
+132,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/4.jpg,0,0,0,0,0,0,0,0
+133,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/5.jpg,0,0,0,0,0,0,0,0
+134,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/6.jpg,0,0,0,0,0,1,1,0
+135,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/7.jpg,0,0,0,0,0,0,0,0
+136,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/8.jpg,0,0,0,0,0,0,0,0
+137,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/9.jpg,0,0,0,0,0,0,0,0
+138,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/10.jpg,0,0,0,0,0,0,0,0
+139,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/11.jpg,0,0,0,0,0,1,0,1
+140,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/12.jpg,0,0,0,0,0,0,1,0
+141,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/13.jpg,0,0,0,0,0,1,0,0
+142,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/14.jpg,0,0,1,0,0,1,0,0
+143,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/15.jpg,1,0,0,0,0,0,0,0
+144,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/16.jpg,0,0,1,1,0,0,0,1
+145,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/17.jpg,0,0,1,0,0,1,0,1
+146,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/18.jpg,0,0,1,0,0,1,0,1
+147,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/19.jpg,0,0,1,0,0,1,0,1
+148,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/20.jpg,0,0,1,0,0,1,0,1
+149,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/21.jpg,0,0,0,0,0,0,0,0
+150,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/22.jpg,0,0,0,0,0,0,0,0
+151,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/23.jpg,0,0,0,0,0,1,0,0
+152,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/24.jpg,0,0,0,0,0,1,0,0
+153,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/25.jpg,0,0,0,0,0,0,0,0
+154,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/26.jpg,0,0,0,0,0,1,0,1
+155,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/27.jpg,0,0,0,0,0,1,0,0
+156,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/28.jpg,0,0,0,0,0,0,0,1
+157,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/29.jpg,1,0,0,0,0,0,1,1
+158,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",ankle/30.jpg,0,0,0,0,0,1,0,0
+159,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/1.jpg,0,0,0,0,0,0,0,0
+160,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/2.jpg,0,0,0,0,0,0,0,0
+161,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/3.jpg,0,0,0,0,0,1,0,0
+162,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/4.jpg,0,0,0,0,0,0,0,0
+163,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/5.jpg,0,0,0,0,0,1,0,0
+164,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/6.jpg,0,0,0,0,0,0,0,0
+165,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/7.jpg,0,0,0,0,0,0,0,0
+166,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/8.jpg,0,0,0,0,0,0,0,0
+167,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/9.jpg,0,0,0,0,0,1,0,0
+168,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/10.jpg,0,0,0,0,0,0,0,0
+169,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/11.png,0,0,0,1,0,0,0,1
+170,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/12.jpg,0,0,0,0,0,0,0,0
+171,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/13.png,0,0,0,0,0,0,0,0
+172,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/14.png,0,0,0,0,0,0,0,0
+173,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/15.jpg,0,0,0,0,0,0,0,0
+174,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/16.jpg,0,0,0,0,0,0,0,0
+175,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/17.jpg,0,0,0,0,0,0,0,0
+176,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/18.jpg,0,0,1,0,0,0,0,0
+177,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/19.jpg,0,1,0,0,0,0,0,0
+178,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/20.jpg,0,1,0,0,0,1,0,1
+179,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/21.jpg,0,0,0,0,0,0,0,1
+180,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/22.jpg,0,0,0,0,0,0,0,0
+181,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",elbow/23.jpg,0,0,0,0,0,1,0,0
+182,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/1.jpg,0,0,0,0,0,0,0,0
+183,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/2.jpg,0,0,0,0,0,0,0,0
+184,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/3.jpg,0,0,1,0,0,1,1,1
+185,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/4.jpg,0,0,1,0,0,1,0,1
+186,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/5.jpg,0,0,0,0,0,0,0,0
+187,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/6.jpg,0,0,0,0,0,0,0,0
+188,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/7.jpg,0,0,0,0,0,0,0,0
+189,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/8.jpg,0,0,0,0,0,0,1,0
+190,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/9.jpg,0,0,0,0,0,0,0,0
+191,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",wrist/10.jpg,0,0,0,0,0,0,0,0
+192,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/1.jpg,0,0,0,0,0,0,0,0
+193,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/2.jpg,0,0,0,0,0,1,0,1
+194,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/3.jpg,0,0,0,0,0,0,0,0
+195,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/4.jpg,0,0,0,1,0,1,0,1
+196,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/5.jpg,0,0,0,0,0,0,0,0
+197,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/6.jpg,0,0,0,0,0,0,0,0
+198,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/7.jpg,0,0,0,0,0,0,0,1
+199,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/8.jpg,0,1,1,0,0,1,0,1
+200,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/9.jpg,0,1,0,0,0,0,1,1
+201,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/10.jpg,0,1,0,0,0,1,0,1
+202,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/11.jpg,0,0,0,0,0,1,0,1
+203,"Answer questions based on the patient's imaging pictures:
+Judge based on the visual evidence visible in the image, output which specific joint or anatomical area is the target, and clearly describe the specific structural damage, lesion, or abnormality visible in the image. If no significant abnormalities are observed, output No significant structural damage.",spine/12.jpg,0,0,0,0,0,0,0,1
