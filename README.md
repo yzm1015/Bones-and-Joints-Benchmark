@@ -11,6 +11,9 @@ We have developed a specialized dataset focused on musculoskeletal disorders, de
 | GPT-4o | - | https://chatgpt.com/ | https://arxiv.org/abs/2410.21276 |
 | Claude3.5-Sonnet | - | https://www.anthropic.com/claude/sonnet | https://assets.anthropic.com/m/1cd9d098ac3e6467/original/Claude-3-Model-Card-October-Addendum.pdf |
 | DeepSeek-VL2 | 4.5B | https://huggingface.co/deepseek-ai/deepseek-vl2 | https://arxiv.org/abs/2412.10302 |
+| Gemini-3.1-Pro | - | https://gemini.google.com | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/ |
+| Qwen3.5-35B-A3B | 35B | https://huggingface.co/Qwen/Qwen3.5-35B-A3B | https://qwen.ai/blog?id=qwen3.5 |
+| GPT-5.2 | - | https://chatgpt.com/ | https://openai.com/index/introducing-gpt-5-2/ |
 | Med-Flamingo | 9B | https://huggingface.co/med-flamingo/med-flamingo | https://arxiv.org/abs/2307.15189 |
 | LLaVA-Med | 7B | https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b | https://arxiv.org/abs/2306.00890 |
 | MedVInT | - | https://github.com/xiaoman-zhang/PMC-VQA/tree/master/src/MedVInT_TD | https://arxiv.org/abs/2305.10415 |
