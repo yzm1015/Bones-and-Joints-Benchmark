@@ -26,4 +26,4 @@ We have developed a specialized dataset focused on musculoskeletal disorders, de
 | Baichuan-M2 | 32B | https://huggingface.co/baichuan-inc/Baichuan-M2-32B | https://arxiv.org/abs/2509.02208 |
 
 ## Results
-The original output of the model, as well as the score sheets for both automatic and manual evaluations, have been published on the website.
+The raw output of the model, as well as the score sheets for both automatic and manual evaluations, have been published on the website.
