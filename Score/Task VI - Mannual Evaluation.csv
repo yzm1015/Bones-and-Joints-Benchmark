@@ -1,0 +1,181 @@
+Number,Question,image_path,GLM-4V-9B,Qwen2-VL,MiniCPM-V2.6,Llama-3.2-Vision,GPT-4o,Claude3.5-Sonnet,DeepSeek-VL2,LLaVA-Med,Med-Flamingo,MedVInT,miniGPT-Med,Gemini-3.1-Pro,Qwen3.5-35B-A3B,GPT-5.2
+5,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?52-year-old middle-aged male.
+Medical History:?Over 5 years ago, the patient developed left knee swelling and pain without an obvious inciting cause, predominantly on the lateral side. Pain aggravated after walking or exercise and was alleviated by rest. No fever or chills. The patient sought treatment at a local hospital and was given oral medication, but reported suboptimal results.
+Physical Examination: Inspection:?Mild swelling of the left knee; a mass approximately 1.5cm x 1.5cm was visible in the anterolateral space. No erythema or ecchymosis on the skin. Palpation:?Skin temperature of the left knee was not elevated. The anterolateral mass was soft, with clear boundaries; tenderness was present in the surrounding joint space. Dorsalis pedis artery pulsation was palpable. Sensation in bilateral lower limbs was symmetrical without hypoesthesia. Movement:?Left knee ROM: 0бу-140бу. Floating patella test (-), Lateral McMurray sign (-), Anterior Drawer Test (-), Posterior Drawer Test (-), Lachman test (-), Valgus stress test (-), Varus stress test (-); Hyperflexion test (-); Hyperextension test (-). Measurement:?Bilateral lower limbs were essentially equal in length. 
+MRI of the Left Knee (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",knee/5.png,1,0,0,0,,0,0,1,0,0,0,0,0,1
+12,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?55-year-old middle-aged female.
+Medical History:?Over 10 years ago, the patient developed right knee pain with restricted mobility without an obvious inciting cause. Pain aggravated after prolonged walking, particularly when using stairs, and was alleviated by rest. Conservative treatment at a local hospital yielded average results. Over 1 year ago, the aforementioned symptoms worsened.
+Physical Examination: Inspection:?No swelling, pallor, shine, erythema, obvious deformity, or ulceration of the skin on bilateral knees. Palpation:?No palpable masses. Skin temperature normal. Positive tenderness in the right lateral knee joint space. Dorsalis pedis artery pulsation palpable. No obvious sensory deficit. Movement:?Right knee ROM 0бу-100бу. Right knee floating patella test negative, anterior/posterior drawer tests negative, varus/valgus stress tests negative. Right knee grinding test positive, lateral McMurray sign positive. Right knee hyperextension and hyperflexion tests positive. Measurement:?Bilateral lower limbs were essentially equal in length. 
+MRI of the Right Knee (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",knee/12.png,0,1,0,0,1,0,0,0,0,0,0,0,1,1
+15,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?39-year-old young female.
+Medical History:?2 years ago, the patient developed left knee pain without an obvious inciting cause. No low-grade fever, night sweats, other joint discomfort, or morning stiffness. Relieved by rest; no specific treatment was sought. The pain later recurred, especially during weight-bearing activities and using stairs.
+Physical Examination: Inspection:?No swelling or deformity of bilateral knees; no erythema or ecchymosis. Palpation:?Skin temperature of bilateral knees was not elevated. Tenderness in the left lateral joint space; no tenderness in the medial space. Dorsalis pedis artery pulsation was palpable. Sensation in bilateral lower limbs was symmetrical without hypoesthesia. Movement:?Left knee ROM: 10бу-140бу. Floating patella test (-), Lateral McMurray sign (+), Anterior Drawer Test (-), Posterior Drawer Test (-), Lachman test (-), Varus/Valgus stress tests (-). Measurement:?Bilateral lower limbs were essentially equal in length. 
+MRI of the Left Knee (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",knee/15.png,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+17,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?36-year-old young male.
+Medical History:?2 years ago, the patient twisted his right knee playing basketball and was diagnosed with a 'right anterior cruciate ligament (ACL) (ACL) rupture'. He underwent 'right ACL reconstruction' at another hospital. 4 months ago, he twisted the right knee again while playing basketball, resulting in pain and slight swelling. Denies lower limb numbness or sensory disturbance. He sought immediate care at a local hospital and received only symptomatic pain management. After the pain resolved, the patient felt worsened instability in the right knee and was afraid to perform rapid running or stopping movements.
+Physical Examination: Inspection:?No obvious swelling or deformity of the right knee; no erythema, ecchymosis, or pigmentation. Several healed surgical scars of varying sizes were visible on the right knee. Palpation:?Skin temperature not elevated. No tenderness in the right medial joint space; no obvious tenderness in the lateral space. Dorsalis pedis artery palpable. Sensation symmetrical, no hypoesthesia. Movement:?Right knee ROM: 0бу-130бу. Floating patella test (-), Medial McMurray sign (-), Patellofemoral grinding test (-), Right Anterior Drawer Test (+), Posterior Drawer Test (-), Right Lachman test (+), Varus/Valgus stress tests (-), Hyperextension/Hyperflexion tests (-). No other obvious abnormalities. Measurement:?Bilateral lower limbs were essentially equal in length. 
+MRI of the Right Knee (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",knee/17.png,0,0,0,0,1,1,0,0,0,0,0,1,1,1
+23,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?13-year-old adolescent female.
+Medical History:?1 year ago, the patient fell from a bicycle, landing on the left knee. Immediate pain and swelling occurred. CT scan at a local hospital showed no obvious abnormality. Symptomatic treatment relieved the swelling and pain. The patient occasionally experienced 'giving way' of the leg while walking but did not seek treatment. 2 weeks ago, she fell again injuring the left knee. Symptomatic treatment slightly alleviated the pain and swelling.
+Physical Examination: Inspection:?No obvious swelling of the left knee; no rash, erythema, or effusion. Posterior sagging of the left tibial plateau was observed. Palpation:?Skin temperature normal. No tenderness in medial/lateral joint spaces. No palpable mass. Dorsalis pedis artery palpable. No sensory deficit. Movement:?Left knee ROM: 0бу-130бу. Floating patella test (-), McMurray sign (-), Anterior Drawer Test (-), Posterior Drawer Test (+), Lachman test (-), Varus/Valgus stress tests (-). Measurement:?Bilateral lower limbs were essentially equal in length. 
+MRI of the Left Knee (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",knee/23.png,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+27,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?35-year-old young male.
+Medical History:?Over 10 years ago, the patient fell and sprained the left knee, causing pain and swelling. Oral medication at a local hospital relieved the swelling and pain, but left knee instability persisted, especially during sports. 1 month ago, the patient felt worsened pain and severely restricted activity.
+Physical Examination: Inspection:?No obvious swelling of the left knee; no erythema or ecchymosis. Palpation:?Skin temperature not elevated. No tenderness in medial or lateral joint spaces. Dorsalis pedis artery palpable. Sensation symmetrical, no hypoesthesia. Movement:?Left knee ROM: 0бу-140бу. Floating patella test (-), Medial McMurray sign (-), Anterior Drawer Test (+), Posterior Drawer Test (-), Lachman test (+), Varus/Valgus stress tests (-). Measurement:?Bilateral lower limbs were essentially equal in length. 
+MRI of the Left Knee (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",knee/27.png,0,1,0,0,0,1,0,0,0,0,0,1,1,1
+31,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?24-year-old young female.
+Medical History:?12 years ago, the patient first twisted her right knee while dancing, feeling a lateral patellar dislocation sensation and pain. Fixation for 4 weeks and conservative treatment for 2 weeks alleviated symptoms. The injury recurred 3 times. 1 year ago, another twist occurred with a sensation of instability and patellar wobbling. The patient cannot perform sports or rapid turns/stops, but can walk and use stairs normally.
+Physical Examination:?Right quadriceps atrophy. Increased right patellar mobility compared to normal. Increased Q-angle. Patellar apprehension test positive. 
+MRI of the Right Knee (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",knee/31.jpg,0,0,1,0,1,1,0,0,0,0,0,1,1,1
+36,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?36-year-old young male.
+Medical History:?9 months ago, following fractures of the left tibial plateau, patella, and fibular head, and injuries to the ACL, PCL, and MCL, the patient underwent open reduction and internal fixation (ORIF) of the tibial plateau. Due to poor wound healing, debridement and VSD (Vacuum Sealing Drainage) were performed. After VSD removal and healing, brace fixation was used for 6 weeks. Subsequently, significant flexion/extension limitation was noted (extension straight, flexion to 20бу). Despite rehabilitation (passive flexion up to 80бу), stiffness worsened. Diagnosed with left knee subluxation and stiffness, he underwent open reduction and fixation. 6 weeks post-op, pin removal was performed, but stiffness worsened further.
+Physical Examination:?Three old surgical scars visible on the left knee. Restricted mobility: Active flexion 20бу, Passive flexion 60бу, Extension 110бу. Patellar grind test positive. Medial joint space tenderness positive. 
+MRI of the Left Knee (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",knee/36.png,1,1,0,1,1,1,0,0,0,0,0,1,1,1
+42,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?75-year-old elderly female.
+Medical History:?Over 10 years ago, the patient developed intermittent, needle-like bilateral knee pain after activity, aggravated by prolonged walking. Relieved by rest. No chills, fever, or night sweats. Self-treatment with hot towels was ineffective. Over 3 months ago, left knee pain worsened with restricted mobility, affecting walking (distance ~200m) and quality of life.
+Physical Examination: Inspection:?Limping gait. Lower limbs equal length. No ulceration, sinus tracts, or purulence. Pale blue ecchymosis visible. No muscle atrophy or varicose veins. Slight swelling of knees. Palpation:?Skin temperature normal. Soft tissue tension normal. Patellar tenderness (medial/lateral) (+). Left dorsalis pedis pulse weak; right pulse normal. Bilateral posterior tibial pulses normal. Sensation normal. Movement:?Left knee Flexion 100бу, Extension 0бу, Varus 0бу; pain induced by motion (+). Right knee Flexion 110бу, Extension 0бу, Varus 0бу; pain induced by motion (+). Muscle strength/tone normal. Pathological reflexes not elicited. 
+Digital X-ray of Bilateral Knees (AP/Lateral):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",knee/42.png,0,0,0,0,1,0,0,0,0,0,0,1,1,1
+57,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?43-year-old middle-aged female.
+Medical History:?6 months ago, the patient developed right hip pain without an inciting cause (groin, greater trochanter, posterior hip). Pain was distinct after prolonged sitting/walking and squatting, and worse when leaning forward while seated. Condition has not progressed but affects daily life.
+Physical Examination:?Tenderness in the right inguinal region. Passive flexion-internal rotation test positive. FABER (Patrick's) test positive. Flexion-abduction-external rotation test positive. 
+MRI of the Right Hip (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",hip/1.jpg,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+63,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?64-year-old elderly male.
+Medical History:?6 months ago, the patient developed left hip pain (groin, greater trochanter) without an inciting cause, distinct during adduction-internal rotation and flexion. Pain was intermittent and worsened with occasional locking. Can walk normally but cannot play sports.
+Physical Examination:?Left hip tenderness negative. Straight Leg Raise test negative. Hip ROM acceptable. Impingement test positive. FABER (Patrick's) test positive. 
+MRI of the Left Hip (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",hip/7.jpg,1,1,0,0,,1,0,1,0,0,0,0,1,1
+72,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?29-year-old young male.
+Medical History:?2 weeks ago, the patient developed dull left hip pain after running. Pain aggravated after squatting or hip flexion and was alleviated by rest.
+Physical Examination:?Left hip ROM good. Inguinal tenderness not obvious. Passive flexion-internal rotation test positive. FABER (Patrick's) test negative. 
+MRI of the Left Hip (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",hip/16.jpg,1,0,0,0,1,1,0,1,0,0,0,1,1,1
+78,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?66-year-old elderly male.
+Medical History:?12 years prior to admission, trauma caused left hip pain. Diagnosed with 'Left femoral neck fracture' and treated with ORIF. Recovery was fair. 1 year ago, left hip pain recurred with limping and difficulty walking. Oral medication provided slight relief. Pain worsened; currently walking distance ~500m, difficulty with stairs/shoes, sitting tolerance <30 mins. Harris score: 42.
+Physical Examination: Inspection:?Limping gait. Left leg shortened ~2cm. 15cm surgical scar on left hip. Skin normal. Palpation:?Skin temperature normal. Tenderness at left femoral head projection (+). Greater trochanter percussion pain (+). Sensation/blood supply good. Movement:?Left hip restricted: Extension 0бу, Flexion 40бу, Abduction 10бу, Adduction 0бу, Int/Ext Rotation 0бу. Pain induced by abduction/rotation (+). FABER (+). Right hip ROM acceptable. FABER (-). Pathological reflexes negative. Measurement:?Bilateral lower limbs were essentially equal in length. 
+Digital X-ray of the Left Femoral Neck (Oblique):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",hip/22.png,0,0,1,0,1,1,0,0,0,0,0,1,1,1
+88,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?48-year-old middle-aged female.
+Medical History:?4 years ago, the patient developed intermittent dull left hip pain without an inciting cause, aggravated by activity. 2 years ago, symptoms worsened with moderate limping. Walking distance ~500m. Difficulty with stairs/socks. Harris score: 47.
+Physical Examination: Inspection:?Limping gait. Skin normal. Legs equal length. Palpation:?Skin temperature normal. Tenderness at left femoral head projection (+). Greater trochanter percussion pain (+). Sensation/blood supply good. Movement:?Left hip restricted: Extension 0бу, Flexion 90бу, Abduction 20бу, Adduction 10бу, Ext/Int Rotation 5бу. Pain induced by abduction/rotation (+). FABER (+). Right hip ROM acceptable. Measurement:?Bilateral lower limbs were essentially equal in length. 
+Digital X-ray of the Pelvis (AP):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",hip/32.png,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+89,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?68-year-old elderly female.
+Medical History:?4 days ago, the patient fell down stairs, injuring the left leg. Immediate pain, swelling, and restricted mobility. No open soft tissue injury or vascular injury.
+Physical Examination:?Patient on gurney (passive position). Left thigh swelling, ecchymosis, tenderness. No open wound. Dorsalis pedis pulse palpable. Sensation normal. Muscle strength V. Right knee mild tenderness, patellar grinding (+), flexion deformity, ROM -20бу-90бу. 
+Digital X-ray of the Pelvis (AP):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",hip/33.jpg,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+94,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?69-year-old elderly male.
+Medical History:?1 day ago, the patient fell, injuring the left leg. Immediate pain, swelling, and restricted mobility. Emergency X-ray indicated left femoral intertrochanteric fracture.
+Physical Examination:?Patient on gurney. Left leg in external rotation. Swelling and ecchymosis. No open wound. Left leg tenderness and longitudinal percussion pain positive. Arterial pulse palpable. No nerve injury. Sensation normal. Muscle strength V (except left leg). 
+Digital X-ray of the Left Femoral Neck (AP):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",hip/38.jpg,1,1,0,0,1,1,0,0,0,0,0,1,1,1
+100,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?56-year-old elderly female.
+Medical History:?Over 10 years ago, the patient developed right shoulder pain without an inciting cause. Pain with activity. Accompanied by weakness and restricted mobility. NSAIDs provided relief. 5 years ago, a fall caused recurrence. Recent worsening affects quality of life.
+Physical Examination:?No swelling/deformity. Greater tuberosity tenderness. Abduction 100бу, Internal Rotation 70бу. ABERR: Grade 3, ABIRR: Grade 5, Hug-up: Grade 2, Bear hug: Grade 3, Hug-off: Grade 3, Lift-off: (+), Whipple: Grade 4, Belly press test: (+), Jobe test: (+), Full can test: (+). 
+MRI of the Right Shoulder (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",shoulder/4.png,0,0,0,0,0,1,0,0,0,0,0,1,1,1
+107,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?55-year-old elderly female.
+Medical History:?3 years ago, the patient developed right shoulder pain, restricted mobility, and weakness without an inciting cause. Recent night pain. No locking. Conservative treatment (NSAIDs/PT) resulted in intermittent symptoms.
+Physical Examination:?No swelling/deformity. Greater tuberosity tenderness. ROM acceptable. Hug-up: Grade 3, Bear hug: Grade 4, Hug-off: Grade 5, Whipple: Grade 4, Lift-off: Grade 5, Belly press test: (+), ABERR: Grade 4, ABIRR: Grade 5, Palm-up: Grade 4, Jobe test: Grade 3. 
+MRI of the Right Shoulder (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",shoulder/11.png,1,0,1,0,,0,0,0,0,0,0,0,0,0
+114,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?50-year-old middle-aged female.
+Medical History:?Over 10 years ago, a fall caused left shoulder dislocation (manual reduction + fixation). 8 years ago, pushing off a sofa caused recurrence. Over 20 recurrences followed (mostly self-reducible). Last episode 2+ months ago. No obvious daily pain, but cannot swim/play ball. Dislocation has occurred during sleep.
+Physical Examination:?No redness/deformity/tenderness. ROM acceptable. ABIRR Grade 4, ABERR Grade 5. Hug-up Grade 4. Bear hug/Hug-off Grade 5. Belly press/Palm-up/Whipple/Jobe Grade 4. Belly press (-). Full can Grade 5. Apprehension test (+). Sulcus sign: 1cm. 
+MRI of the Left Shoulder (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",shoulder/18.jpg,0,0,0,0,0,1,0,0,0,0,1,1,1,1
+125,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?27-year-old young male.
+Medical History:?3 months ago, a fall caused right shoulder pain and restricted mobility. X-ray at a local hospital showed no bone abnormality. PT provided some relief, but pain persists during abduction/external rotation.
+Physical Examination:?Greater tuberosity tenderness. ROM slightly restricted: Flexion 130бу, Extension 50бу, Adduction 50бу, Abduction 150бу. Yergason test (+). OбпBrien test (+). Apprehension test (+). Sulcus sign (-). Sensation/strength normal. 
+MRI of the Right Shoulder (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",shoulder/29.jpg,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?18-year-old adolescent male.
+Medical History:?Over 2 years ago, strenuous activity caused ankle pain (Medial > Lateral). Relieved by rest. Symptomatic treatment failed. Over 1 month ago, recurrent pain/swelling persisted.
+Physical Examination:?Medial malleolus swelling. No flat foot. No sinus tarsi/ATFL tenderness. Tenderness at medial malleolus and Deltoid ligament (tibionavicular) origin. ROM restricted. ADT -. Left ankle external rotation looser than contralateral side. 
+MRI of the Left Ankle (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",ankle/11.jpg,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+145,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?61-year-old elderly female.
+Medical History:?Over 4 years ago, the patient developed left ankle swelling/pain without an inciting cause, relieved by rest. Recurrent pain managed with patches.
+Physical Examination:?No obvious swelling. No flat foot. No sinus tarsi/ATFL tenderness. Mild medial tenderness. Impingement tests (-). ROM normal. Contractures (-). Peroneal tendon tenderness (-). ADT -, Inversion -. 
+MRI of the Left Ankle (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",ankle/17.jpg,0,0,0,0,,0,0,0,0,0,0,1,0,0
+151,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?58-year-old middle-aged female.
+Medical History:?Over 1 month ago, a fall caused left heel pain. Topical medication failed. While walking, a snap was heard in the left heel, followed by severe bilateral heel pain and inability to walk. Patient has Type 2 Diabetes (on Metformin).
+Physical Examination:?Left Achilles tendon continuity interrupted. Mild tenderness. Increased dorsiflexion. Thompson test positive. Diabetic foot. 
+MRI of the Left Achilles Tendon (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",ankle/23.jpg,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+160,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?53-year-old middle-aged female.
+Medical History:?Over 1 year ago, the patient developed left elbow lateral condyle pain (worse with housework). Block/acupuncture/needle-knife therapy yielded minimal relief.
+Physical Examination:?Left lateral condyle tenderness. Left Mills test (+). ROM: Extension 0бу, Flexion 150бу. Stress tests (-). Resisted wrist/finger extension (+). Traction test (+). Strength Grade 5. Sensation/circulation normal. 
+MRI of the Left Elbow (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",elbow/2.jpg,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+173,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?55-year-old elderly female.
+Medical History:?8 years ago, the patient developed right elbow pain without an inciting cause. 4 months ago, restriction occurred. Symptoms worsen with fatigue.
+Physical Examination:?Right elbow restricted: Extension 40бу, Flexion 100бу. Tinel sign (-). Extensor origin tenderness (+). Resisted wrist extension pain (+). Mills sign (+). 
+MRI of the Right Elbow (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",elbow/15.jpg,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+182,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?42-year-old middle-aged male.
+Medical History:?4 months ago, lifting luggage caused right wrist ulnar pain/restriction. X-ray was normal. Pain persists (ulnar deviation, pronation/supination).
+Physical Examination:?No swelling. Hyperextension/Hyperflexion pain. Tenderness between ulnar styloid/FCU and ulnar head/triquetrum. Piano key sign (-). Ulnocarpal stress test (+). Sensation/circulation normal. 
+MRI of the Right Wrist (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",wrist/1.jpg,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+186,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?21-year-old young male.
+Medical History:?3 hours ago, jamming the 5th finger playing basketball caused pain. Self-reduced.
+Physical Examination:?Right 5th metacarpal swelling/deformity/tenderness. 
+Digital X-ray of the Right Hand (AP/Oblique):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",wrist/5.jpg,1,1,1,0,1,1,0,0,0,0,0,1,0,1
+189,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?29-year-old young female.
+Medical History:?10 months ago, a mass appeared on the right dorsal wrist. 5 months ago, manual treatment resolved it. 2 weeks later, it recurred. 2 months ago, it enlarged (peanut size). Painless.
+Physical Examination:?1cm x 1cm mobile mass. No tenderness. Tinel sign (-). Sensation normal. 
+MRI of the Right Wrist (Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",wrist/8.jpg,1,1,0,0,0,1,0,0,0,0,0,1,1,0
+196,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?26-year-old young male.
+Medical History:?Since childhood, the head has tilted to the left, worsening with age. No pain or numbness.
+Physical Examination:?Head tilted left. Left sternocleidomastoid tightness. 
+CT of the Cervical Spine (Coronal Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",spine/5.jpg,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+202,"Based on the patient's medical history, physical examination, and imaging findings, please answer the following questions:
+Demographics:?74-year-old elderly male.
+Medical History:?Over 3 months ago, the patient developed back pain and right leg pain/numbness (Posterolateral calf/Dorsum foot). Worsened by standing/walking.
+Physical Examination:?L5-S1 tenderness. Right dorsum foot hypoesthesia. Right EHL strength Grade III. Right knee reflex weak. 
+MRI of the Lumbar Spine (Axial Plain Scan):?As shown in the figure.
+Please output the patient's current primary diagnosis and the corresponding treatment recommendations. The diagnosis must be structured to include: Laterality, Joint Name, Injured Structure, and Type of Injury.",spine/11.jpg,0,0,0,0,0,0,0,0,0,0,0,0,0,0
